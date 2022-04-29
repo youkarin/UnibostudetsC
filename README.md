@@ -1,15 +1,22 @@
-博洛尼亚大学中国学生学联新生手册
 #博洛尼亚 新生手册
 
-=================================  
-fandol:字体包
 博洛尼亚大学中国学联新生手册，借鉴前辈们多年的经验，让你在意大利博洛尼亚市生活得更舒适，更开心。
 
-2022/04/23  
-开始收集文档  
 ## Prerequisite:
 - Install fonts: ```fandol```
 - Install Latex: https://www.latex-project.org
+
+## Compile with:
+
+xelatex main.tex
+
+If Chinese characters are not displayed, please get texworks from https://github.com/TeXworks/texworks   
+The short.tex version has been customized(shortened) for budget scope in Printing Service shop.
+
+## LOG:
+
+2022/04/23  
+开始收集文档  
 
 2022/04/24  
 1,4,8章排版结束  
