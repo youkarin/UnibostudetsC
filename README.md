@@ -20,12 +20,10 @@ The short.tex version has been customized(shortened) for budget scope in Printin
 
 2022/04/24  
 1,4,8章排版结束  
-## compile with:
 
 2022/04/25  
 已上传所有文档的第二版  
 第二章材料办理初审完成  
-xelatex main.tex
 
 2022/04/27  
 四个文档初审均完成  
