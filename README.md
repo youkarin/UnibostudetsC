@@ -36,7 +36,7 @@ welcome   ->  学联致辞,简介,已修改
 
 2022/04/29
 
-Appendix  ->  附录，已修改上传
-asscubo   ->  博大学联简介，已修改上传
-biblio    ->  参考文献，已修改上传
-connect   ->  交通与通信，已修改上传
+Appendix  ->  附录，已修改上传   
+asscubo   ->  博大学联简介，已修改上传   
+biblio    ->  参考文献，已修改上传   
+connect   ->  交通与通信，已修改上传   
