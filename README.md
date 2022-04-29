@@ -6,9 +6,9 @@
 - Install fonts: ```fandol```
 - Install Latex: https://www.latex-project.org
 
-## compile with:
+## Compile with:
 
 xelatex main.tex
 
-
+If Chinese characters are not displayed, please get texworks from https://github.com/TeXworks/texworks
 The short.tex version has been customized(shortened) for budget scope in Printing Service shop.
