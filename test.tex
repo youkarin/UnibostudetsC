@@ -1,0 +1,56 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage{type1cm}
+\usepackage{eso-pic}
+\usepackage{color}
+\usepackage{everypage}
+
+\newenvironment{water}{\AddEverypageHook{\waterb}}{\AddThispageHook{\waterb}\AddEverypageHook{\watere}}
+
+\makeatletter
+\newcommand{\waterb}{
+\AddToShipoutPicture*{%
+            \setlength{\@tempdimb}{.5\paperwidth}%
+            \setlength{\@tempdimc}{.5\paperheight}%
+            \setlength{\unitlength}{1pt}%
+            \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+        \makebox(0,0){\rotatebox{45}{\textcolor[gray]{0.75}%
+        {\fontsize{6cm}{6cm}\selectfont{ASSCUBO}}}}%
+            }%
+}}
+\makeatother
+
+\makeatletter
+% \newcommand{\watere}{
+% \AddToShipoutPicture*{%
+%             \setlength{\@tempdimb}{.5\paperwidth}%
+%             \setlength{\@tempdimc}{.5\paperheight}%
+%             \setlength{\unitlength}{1pt}%
+%             \put(\strip@pt\@tempdimb,\strip@pt\@tempdimc){%
+%         \makebox(0,0){\rotatebox{45}{\textcolor[gray]{1}%
+%         {\fontsize{6cm}{6cm}\selectfont{DRAFT}}}}%
+%             }%
+% }}
+\makeatother
+
+\title{Lorem ipsum}
+
+\begin{document}
+
+page one
+
+\newpage
+
+\begin{water}
+ First watermarked page
+ \newpage
+ Second watermarked page
+ \newpage
+ Third watermarked page
+\end{water}
+
+\newpage
+
+This page should not be watermarked
+\end{document}

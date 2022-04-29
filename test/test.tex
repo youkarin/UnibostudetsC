@@ -1,0 +1,23 @@
+\documentclass[12pt,oneside,openany,a4paper]{book}
+\usepackage{CJK}
+\usepackage{amsmath}
+\usepackage{cases}
+\usepackage[bf,small,center,indentafter,pagestyles]{titlesec}
+\usepackage{CJKpunct}
+\usepackage{CJKnumb}
+\hoffset=1cm\voffset=-1cm
+\textwidth=12.5cm \textheight=22cm
+\begin{document}
+\begin{CJK*}{GBK}{song}
+\titleformat{\chapter}[hang]{\centering\LARGE\bfseries}{\chaptername}{1em}{}
+\renewcommand{\chaptername}{第\CJKnumber{\thechapter}章}
+\renewcommand{\contentsname}{目\quad 录}
+
+\tableofcontents
+
+\chapter{绪论}
+
+Blabla……
+
+\end{CJK*} 
+\end{document}
