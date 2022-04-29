@@ -10,5 +10,5 @@
 
 xelatex main.tex
 
-If Chinese characters are not displayed, please get texworks from https://github.com/TeXworks/texworks
+If Chinese characters are not displayed, please get texworks from https://github.com/TeXworks/texworks   
 The short.tex version has been customized(shortened) for budget scope in Printing Service shop.
