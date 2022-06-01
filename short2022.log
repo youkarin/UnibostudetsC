@@ -1,0 +1,2196 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  26 MAY 2022 18:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./short2022.tex
+(short2022.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-20> (D:\MikTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(D:\MikTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\MikTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+\mult@box=\box50
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count199
+)
+(D:\MikTeX\tex/latex/tools\layout.sty
+Package: layout 2021-03-10 v1.2e Show layout parameters
+\oneinch=\count266
+\cnt@paperwidth=\count267
+\cnt@paperheight=\count268
+\cnt@hoffset=\count269
+\cnt@voffset=\count270
+\cnt@textheight=\count271
+\cnt@textwidth=\count272
+\cnt@topmargin=\count273
+\cnt@oddsidemargin=\count274
+\cnt@evensidemargin=\count275
+\cnt@headheight=\count276
+\cnt@headsep=\count277
+\cnt@marginparsep=\count278
+\cnt@marginparwidth=\count279
+\cnt@marginparpush=\count280
+\cnt@footskip=\count281
+\fheight=\count282
+\ref@top=\count283
+\ref@hoffset=\count284
+\ref@voffset=\count285
+\ref@head=\count286
+\ref@body=\count287
+\ref@foot=\count288
+\ref@margin=\count289
+\ref@marginwidth=\count290
+\ref@marginpar=\count291
+\Interval=\count292
+\ExtraYPos=\count293
+\PositionX=\count294
+\PositionY=\count295
+\ArrowLength=\count296
+) (D:\MikTeX\tex/latex/graphics\color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(D:\MikTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(D:\MikTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/04/16 v5.0m Graphics/color driver for xetex
+)
+(D:\MikTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(D:\MikTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\MikTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\MikTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (setup/package.tex
+(D:\MikTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (D:\MikTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box95
+\extrarowheight=\dimen151
+\NC@list=\toks17
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box96
+)
+\TX@col@width=\dimen152
+\TX@old@table=\dimen153
+\TX@old@col=\dimen154
+\TX@target=\dimen155
+\TX@delta=\dimen156
+\TX@cols=\count297
+\TX@ftn=\toks18
+)
+(D:\MikTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count298
+\float@exts=\toks19
+\float@box=\box97
+\@float@everytoks=\toks20
+\@floatcapt=\box98
+) (D:\MikTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(D:\MikTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count299
+\c@continuedfloat=\count300
+Package caption Info: float package is loaded.
+)
+(D:\MikTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count301
+\c@subtable=\count302
+)
+(D:\MikTeX\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(D:\MikTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\MikTeX\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count303
+\c@ALG@rem=\count304
+\c@ALG@nested=\count305
+\ALG@tlm=\skip53
+\ALG@thistlm=\skip54
+\c@ALG@Lnr=\count306
+\c@ALG@blocknr=\count307
+\c@ALG@storecount=\count308
+\c@ALG@tmpcounter=\count309
+\ALG@tmplength=\skip55
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (D:\MikTeX\tex/latex/algorithms\algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks21
+\c@algorithm=\count310
+)
+(D:\MikTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+
+(D:\MikTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen165
+\calc@Bdimen=\dimen166
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip58
+) (D:\MikTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (D:\MikTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(D:\MikTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(D:\MikTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen167
+))
+(D:\MikTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+)
+(D:\MikTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count314
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count315
+\leftroot@=\count316
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count317
+\DOTSCASE@=\count318
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box99
+\strutbox@=\box100
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count319
+\c@MaxMatrixCols=\count320
+\dotsspace@=\muskip16
+\c@parentequation=\count321
+\dspbrk@lvl=\count322
+\tag@help=\toks23
+\row@=\count323
+\column@=\count324
+\maxfields@=\count325
+\andhelp@=\toks24
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks25
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+\g_MT_multlinerow_int=\count326
+\l_MT_multwidth_dim=\dimen176
+\origjot=\skip62
+\l_MT_shortvdotswithinadjustabove_dim=\dimen177
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen178
+\l_MT_above_intertext_sep=\dimen179
+\l_MT_below_intertext_sep=\dimen180
+\l_MT_above_shortintertext_sep=\dimen181
+\l_MT_below_shortintertext_sep=\dimen182
+\xmathstrut@box=\box101
+\xmathstrut@dim=\dimen183
+)
+(D:\MikTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(D:\MikTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(D:\MikTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(D:\MikTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\MikTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(D:\MikTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(D:\MikTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(D:\MikTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(D:\MikTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(D:\MikTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(D:\MikTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(D:\MikTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen184
+\Hy@linkcounter=\count327
+\Hy@pagecounter=\count328
+
+(D:\MikTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+)
+(D:\MikTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(D:\MikTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count329
+
+(D:\MikTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count330
+ (D:\MikTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen185
+
+(D:\MikTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(D:\MikTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count331
+\Field@Width=\dimen186
+\Fld@charsize=\dimen187
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(D:\MikTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count332
+\c@Item=\count333
+\c@Hfootnote=\count334
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(D:\MikTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2022-02-21 v7.00n Hyperref driver for XeTeX
+
+(D:\MikTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box102
+\c@Hy@AnnotLevel=\count335
+\HyField@AnnotCount=\count336
+\Fld@listcount=\count337
+\c@bookmark@seq@number=\count338
+
+(D:\MikTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(D:\MikTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(D:\MikTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
+(D:\MikTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
+)
+(D:\MikTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(D:\MikTeX\tex/latex/base\newlfont.sty
+Package: newlfont 1998/08/17 v2.2m Standard LaTeX package
+LaTeX Info: Redefining \em on input line 57.
+ (D:\MikTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)) (D:\MikTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip73
+\thm@postskip=\skip74
+\thm@headsep=\skip75
+\dth@everypar=\toks32
+) (D:\MikTeX\tex/latex/ctex\ctex.sty
+(D:\MikTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-04-20 L3 programming layer (loader) 
+
+(D:\MikTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2022-04-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count339
+\l__pdf_internal_box=\box103
+\g__pdf_backend_object_int=\count340
+\g__pdf_backend_annotation_int=\count341
+\g__pdf_backend_link_int=\count342
+))
+Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
+
+(D:\MikTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(D:\MikTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(D:\MikTeX\tex/latex/ctex\ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+) (D:\MikTeX\tex/latex/ctex\ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+) (D:\MikTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (D:\MikTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count343
+\l__ctex_tmp_box=\box104
+\l__ctex_tmp_dim=\dimen188
+\g__ctex_section_depth_int=\count344
+\g__ctex_font_size_int=\count345
+
+(D:\MikTeX\tex/latex/ctex/config\ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+(D:\MikTeX\tex/latex/ctex/engine\ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
+
+(D:\MikTeX\tex/xelatex/xecjk\xeCJK.sty
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+
+(D:\MikTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen189
+\l__xtemplate_tmp_int=\count346
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip76
+)
+\l__xeCJK_tmp_int=\count347
+\l__xeCJK_tmp_box=\box105
+\l__xeCJK_tmp_dim=\dimen190
+\l__xeCJK_tmp_skip=\skip77
+\g__xeCJK_space_factor_int=\count348
+\l__xeCJK_begin_int=\count349
+\l__xeCJK_end_int=\count350
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip78
+\g__xeCJK_node_int=\count351
+\c__xeCJK_CJK_node_dim=\dimen191
+\c__xeCJK_CJK-space_node_dim=\dimen192
+\c__xeCJK_default_node_dim=\dimen193
+\c__xeCJK_default-space_node_dim=\dimen194
+\c__xeCJK_CJK-widow_node_dim=\dimen195
+\c__xeCJK_normalspace_node_dim=\dimen196
+\l__xeCJK_ccglue_skip=\skip79
+\l__xeCJK_ecglue_skip=\skip80
+\l__xeCJK_punct_kern_skip=\skip81
+\l__xeCJK_last_penalty_int=\count352
+\l__xeCJK_last_bound_dim=\dimen197
+\l__xeCJK_last_kern_dim=\dimen198
+\l__xeCJK_widow_penalty_int=\count353
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2337.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen199
+\l__xeCJK_mixed_punct_width_dim=\dimen256
+\l__xeCJK_middle_punct_width_dim=\dimen257
+\l__xeCJK_fixed_margin_width_dim=\dimen258
+\l__xeCJK_mixed_margin_width_dim=\dimen259
+\l__xeCJK_middle_margin_width_dim=\dimen260
+\l__xeCJK_bound_punct_width_dim=\dimen261
+\l__xeCJK_bound_margin_width_dim=\dimen262
+\l__xeCJK_margin_minimum_dim=\dimen263
+\l__xeCJK_kerning_total_width_dim=\dimen264
+\l__xeCJK_same_align_margin_dim=\dimen265
+\l__xeCJK_different_align_margin_dim=\dimen266
+\l__xeCJK_kerning_margin_width_dim=\dimen267
+\l__xeCJK_kerning_margin_minimum_dim=\dimen268
+\l__xeCJK_bound_dim=\dimen269
+\l__xeCJK_reverse_bound_dim=\dimen270
+\l__xeCJK_margin_dim=\dimen271
+\l__xeCJK_minimum_bound_dim=\dimen272
+\l__xeCJK_kerning_margin_dim=\dimen273
+\g__xeCJK_family_int=\count354
+\l__xeCJK_fam_int=\count355
+\g__xeCJK_fam_allocation_int=\count356
+\l__xeCJK_verb_case_int=\count357
+\l__xeCJK_verb_exspace_skip=\skip82
+
+(D:\MikTeX\tex/latex/fontspec\fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(D:\MikTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count358
+\l__fontspec_language_int=\count359
+\l__fontspec_strnum_int=\count360
+\l__fontspec_tmp_int=\count361
+\l__fontspec_tmpa_int=\count362
+\l__fontspec_tmpb_int=\count363
+\l__fontspec_tmpc_int=\count364
+\l__fontspec_em_int=\count365
+\l__fontspec_emdef_int=\count366
+\l__fontspec_strong_int=\count367
+\l__fontspec_strongdef_int=\count368
+\l__fontspec_tmpa_dim=\dimen274
+\l__fontspec_tmpb_dim=\dimen275
+\l__fontspec_tmpc_dim=\dimen276
+
+(D:\MikTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(D:\MikTeX\tex/latex/fontspec\fontspec.cfg)))
+(D:\MikTeX\tex/xelatex/xecjk\xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
+))
+\ccwd=\dimen277
+\l__ctex_ccglue_skip=\skip83
+)
+\l__ctex_ziju_dim=\dimen278
+
+(D:\MikTeX\tex/latex/zhnumber\zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count369
+
+(D:\MikTeX\tex/latex/zhnumber\zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+(D:\MikTeX\tex/latex/ctex/scheme\ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTE
+X)
+
+(D:\MikTeX\tex/latex/ctex/config\ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+))
+(D:\MikTeX\tex/latex/ctex\ctex-c5size.clo
+File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
+)
+(D:\MikTeX\tex/latex/ctex/fontset\ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX
+)
+
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+))
+(D:\MikTeX\tex/latex/ctex/config\ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+)
+
+Package ctex Warning: Package `CJKutf8' can not be loaded with `xeCJK'.
+
+(D:\MikTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(D:\MikTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen279
+\ESO@tempdimb=\dimen280
+)
+\AM@pagewidth=\dimen281
+\AM@pageheight=\dimen282
+\AM@fboxrule=\dimen283
+
+(D:\MikTeX\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count370
+\AM@pagebox=\box106
+\AM@global@opts=\toks33
+\AM@pagecnt=\count371
+\AM@toc@title=\toks34
+\c@AM@survey=\count372
+\AM@templatesizebox=\box107
+)
+(D:\MikTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box108
+\beforetitleunit=\skip84
+\aftertitleunit=\skip85
+\ttl@plus=\dimen284
+\ttl@minus=\dimen285
+\ttl@toksa=\toks35
+\titlewidth=\dimen286
+\titlewidthlast=\dimen287
+\titlewidthfirst=\dimen288
+)
+(D:\MikTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen289
+)
+(D:\MikTeX\tex/latex/cjk\CJKnumb.sty
+Package: CJKnumb 2021/10/16 4.8.5
+\CJK@q=\count373
+\CJK@r=\count374
+)) (setup/format.tex
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
+
+
+Package fontspec Warning: Font "FandolKai" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "FandolHei/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FandolKai/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FandolKai/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FandolKai(0)' created for font 'FandolKai'
+(fontspec)             with options [Script={CJK},BoldFont={FandolHei}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FandolKai/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"FandolHei/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault' (FangSong).
+
+)
+
+LaTeX Warning: Unused global option(s):
+    [3pt].
+
+(short2022.aux)
+\openout1 = `short2022.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 41.
+ (D:\MikTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(D:\MikTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(D:\MikTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count375
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+ (short2022.out)
+(short2022.out)
+\@outlinefile=\write3
+\openout3 = `short2022.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 41.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 41.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 41.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 41.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 41.
+LaTeX Font Info:    Redeclaring math accent \check on input line 41.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 41.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 41.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 41.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 41.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 41.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 41.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 41.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 41.
+(D:\MikTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(D:\MikTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf, page 1>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf, page 1>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf, page 1>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf, page 1>
+File: figures/c1.pdf Graphic file (type pdf)
+<use figures/c1.pdf, page 1>
+ [1
+
+] (body/preface.tex [2
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+Overfull \vbox (5.43306pt too high) has occurred while \output is active []
+
+
+[2] [3] [4
+
+]
+Overfull \hbox (0.4793pt too wide) in paragraph at lines 60--61
+[]\TU/FandolKai(0)/m/n/10.53937 博 洛 尼 亚 大 学 中 国 学 生 学 者 联 谊 会 \TU/lmr/m/n/10.53
+937 (Associazione di Stu-
+ []
+
+[5]
+Overfull \hbox (6.06708pt too wide) in paragraph at lines 69--70
+[]\TU/lmr/m/n/10.53937 Dedicandosi alla precisione delle informazioni, ASSCUBO
+ []
+
+[6] [7] [8
+
+
+]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write4
+\openout4 = `short2022.toc'.
+
+[1
+
+
+
+] [2
+
+
+]) (body/welcome.tex
+第\CJKnumber {1}章 1.
+
+Underfull \vbox (badness 1715) has occurred while \output is active []
+
+ [1
+
+]
+Overfull \hbox (7.36786pt too wide) in paragraph at lines 23--39
+\TU/FandolKai(0)/m/n/10.53937 地 点：| \TU/lmr/m/n/10.53937 Palazzo Paleotti (3 \T
+U/FandolKai(0)/m/n/10.53937 楼\TU/lmr/m/n/10.53937 )\TU/FandolKai(0)/m/n/10.5393
+7 ，| \TU/lmr/m/n/10.53937 Via Zamboni, 25, 40126, Bologna 
+ []
+
+
+Overfull \hbox (19.84004pt too wide) in paragraph at lines 23--39
+\TU/lmr/m/n/10.53937 Facebook\TU/FandolKai(0)/m/n/10.53937 ：| \TU/lmr/m/n/10.53
+937 https://www.facebook.com/asiainstituteassociazione/ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--39
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 4366) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+
+Overfull \hbox (3.37978pt too wide) in paragraph at lines 41--55
+\TU/FandolKai(0)/m/n/10.53937 地 址：| \TU/lmr/m/n/10.53937 Palazzo Paleotti (2 \T
+U/FandolKai(0)/m/n/10.53937 楼\TU/lmr/m/n/10.53937 ) \TU/FandolKai(0)/m/n/10.539
+37 ，| \TU/lmr/m/n/10.53937 Via Zamboni 25, 40126 Bologna 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+[4]) (body/firstweek.tex [5] [6
+
+]
+第\CJKnumber {2}章 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+[7]
+File: ./images//c.f.qrcode.png Graphic file (type bmp)
+<./images//c.f.qrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+
+ []
+
+[8]
+File: ./images//c.f.uniboqrcode.png Graphic file (type bmp)
+<./images//c.f.uniboqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--51
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (2.44987pt too wide) in paragraph at lines 52--54
+[]\TU/FandolKai(0)/m/n/10.53937 目 前 用 于 续 居 留 的 医 疗 保 险 分 为：|  由 国 家 卫 生 局  |（\
+TU/lmr/m/n/10.53937 Servizio
+ []
+
+File: ./images//sportellocupqrcode.png Graphic file (type bmp)
+<./images//sportellocupqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+[10]
+File: ./images//sanitariaqrcode.png Graphic file (type bmp)
+<./images//sanitariaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--71
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[13] [14]
+Overfull \hbox (52.54373pt too wide) in paragraph at lines 120--124
+[]\TU/FandolKai(0)/m/n/10.53937 查 询 居 留 进 程 的 网 址 为 \TU/lmr/m/n/10.53937 https:
+//questure.poliziadistato.it/stranieri/ 
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+ []
+
+[16] [17] [18]
+File: ./images//bancaincinaqrcode.png Graphic file (type bmp)
+<./images//bancaincinaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
+
+ []
+
+[19] [20]
+Overfull \hbox (26.38881pt too wide) in paragraph at lines 201--208
+\TU/FandolKai(0)/m/n/10.53937 过 以 下 方 式 进 行：|  点 击 \TU/lmr/m/n/10.53937 ER-GO \
+TU/FandolKai(0)/m/n/10.53937 官 方 主 页 \TU/lmr/m/n/10.53937 http://www.er-
+ []
+
+
+Overfull \hbox (13.00266pt too wide) in paragraph at lines 201--208
+\TU/lmr/m/n/10.53937 go.it/ \TU/FandolKai(0)/m/n/10.53937 的 \TU/lmr/m/n/10.5393
+7 BORSINO ALLOGGI \TU/FandolKai(0)/m/n/10.53937 专 区  |（\TU/lmr/m/n/10.53937 htt
+p://www.er-
+ []
+
+
+Underfull \vbox (badness 5302) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (13.938pt too wide) in paragraph at lines 227--228
+[]\TU/FandolKai(0)/m/n/10.53937 家 庭 医 生 诊 治，|  一 般 情 况 医 生 给 病 人 开 具 一 张 处 方  |
+（\TU/lmr/m/n/10.53937 ricetta\TU/FandolKai(0)/m/n/10.53937 ） ，|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
+
+ []
+
+[22]
+File: ./images//dentistaqrcode.png Graphic file (type bmp)
+<./images//dentistaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--253
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+File: ./images//podologiaqrcode.png Graphic file (type bmp)
+<./images//podologiaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+File: ./images//csmqrcode.png Graphic file (type bmp)
+<./images//csmqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+File: ./images//sapqrcode.png Graphic file (type bmp)
+<./images//sapqrcode.png>
+
+Overfull \hbox (1.87001pt too wide) in paragraph at lines 270--278
+\TU/FandolKai(0)/m/n/10.53937 务 \TU/lmr/m/n/10.53937 Servizio di Aiuto Psicolog
+ico a Giovani Adulti (SAP)\TU/FandolKai(0)/m/n/10.53937 ，|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--278
+
+ []
+
+[26]) (body/connect.tex [27] [28
+
+]
+第\CJKnumber {3}章 3.
+
+Overfull \hbox (2.77666pt too wide) in paragraph at lines 20--23
+\TU/lmr/m/n/10.53937 (Biglietto Giornaliero)\TU/FandolKai(0)/m/n/10.53937 ，|  月
+ 票 \TU/lmr/m/n/10.53937 (Mensile) \TU/FandolKai(0)/m/n/10.53937 和 年 票 \TU/lmr/m
+/n/10.53937 (Abbonamento
+ []
+
+[29]
+File: ./images//biglietto.png Graphic file (type bmp)
+<./images//biglietto.png>
+
+Overfull \hbox (115.15094pt too wide) in paragraph at lines 32--33
+[][] 
+ []
+
+
+Underfull \vbox (badness 3930) has occurred while \output is active []
+
+ [30]
+[31]
+File: ./images//carta.png Graphic file (type bmp)
+<./images//carta.png>
+ [32] [33]
+File: ./images//marconiqrcode.png Graphic file (type bmp)
+<./images//marconiqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--63
+
+ []
+
+
+Underfull \vbox (badness 1728) has occurred while \output is active []
+
+ [34]
+File: ./images//tperqrcode.png Graphic file (type bmp)
+<./images//tperqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 112--119
+
+ []
+
+[38]
+Overfull \hbox (1.3945pt too wide) in paragraph at lines 119--126
+\TU/FandolKai(0)/m/n/10.53937 售 票 机 一 般 分 为 两 种，|  售 卖 \TU/lmr/m/n/10.53937 Tre
+nitlia \TU/FandolKai(0)/m/n/10.53937 车 票 的 和 售 卖 \TU/lmr/m/n/10.53937 Italo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
+
+ []
+
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+[41]
+Overfull \hbox (3.0345pt too wide) in paragraph at lines 153--162
+\TU/lmr/m/n/10.53937 Vecchione Agency, Corso Arnaldo Lucci, 24 / Metropark
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--162
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+File: ./images//taxiqrcode.png Graphic file (type bmp)
+<./images//taxiqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--178
+
+ []
+
+[43] [44] [45]
+Overfull \hbox (2.73465pt too wide) in paragraph at lines 221--222
+[]\TU/FandolKai(0)/m/n/10.53937 意 大 利 境 内 主 要 快 递 公 司 包 括：| \TU/lmr/m/n/10.5393
+7 DHL\TU/FandolKai(0)/m/n/10.53937 、| \TU/lmr/m/n/10.53937 TNT\TU/FandolKai(0)/
+m/n/10.53937 、| \TU/lmr/m/n/10.53937 UPS\TU/FandolKai(0)/m/n/10.53937 、| \TU/lm
+r/m/n/10.53937 FedEx\TU/FandolKai(0)/m/n/10.53937 、|
+ []
+
+[46]
+Overfull \hbox (3.88345pt too wide) in paragraph at lines 231--235
+\TU/FandolKai(0)/m/n/10.53937 中 国 拨 打 意 大 利 博 洛 尼 亚 市 的 固 定 电 话 的 方 式 为：| \TU/l
+mr/m/n/10.53937 0039+051+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
+
+ []
+
+[47] [48]) (body/utiles.tex [49] [50
+
+]
+第\CJKnumber {4}章 4.
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
+
+ []
+
+[52] [53]) (body/locals.tex [54]
+第\CJKnumber {5}章 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+[55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+
+ []
+
+
+Overfull \hbox (100.05568pt too wide) in paragraph at lines 38--43
+\TU/lmr/m/n/10.53937 Bologna \TU/FandolKai(0)/m/n/10.53937 电 话\TU/lmr/m/n/10.53
+937 :+39 328 3030212 (Dottor Zanella) \TU/FandolKai(0)/m/n/10.53937 邮 箱\TU/lmr/
+m/n/10.53937 :zanella1974@gmail.com
+ []
+
+
+Overfull \hbox (0.18481pt too wide) in paragraph at lines 38--43
+\TU/FandolKai(0)/m/n/10.53937 营 业 时 间\TU/lmr/m/n/10.53937 : \TU/FandolKai(0)/m/
+n/10.53937 周 一 至 周 五 \TU/lmr/m/n/10.53937 9:30-12:30 15:30-19:30 \TU/FandolKai(
+0)/m/n/10.53937 周 六\TU/lmr/m/n/10.53937 :9:30-
+ []
+
+[56] [57] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+\TU/FandolKai(0)/m/n/10.53937 主 要 品 牌：| \TU/lmr/m/n/10.53937 Gucci, Prada,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+\TU/lmr/m/n/10.53937 Armani, Bottega Veneta,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+\TU/lmr/m/n/10.53937 s, Valentino, Ferragamo,
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 114--119
+\TU/FandolKai(0)/m/n/10.53937 前 往\TU/lmr/m/n/10.53937 : Autostazione Sita
+ []
+
+[59]
+Overfull \hbox (56.84036pt too wide) in paragraph at lines 121--125
+\TU/FandolKai(0)/m/n/10.53937 网 址\TU/lmr/m/n/10.53937 : www.mcarthurglen.com/ba
+rberino-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+\TU/FandolKai(0)/m/n/10.53937 主 要 品 牌：| \TU/lmr/m/n/10.53937 Ralph Lau-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+|\TU/lmr/bx/n/10.53937 SERRAVALLE DE-
+ []
+
+
+Overfull \hbox (38.4439pt too wide) in paragraph at lines 127--131
+\TU/FandolKai(0)/m/n/10.53937 网 址：| \TU/lmr/m/n/10.53937 www.mcarthurglen.it/se
+rravalle 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+\TU/lmr/m/n/10.53937 SACE\TU/FandolKai(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937 
+FERRAGAMO \TU/FandolKai(0)/m/n/10.53937 等
+ []
+
+
+Overfull \hbox (63.81215pt too wide) in paragraph at lines 133--138
+\TU/FandolKai(0)/m/n/10.53937 网 址：| \TU/lmr/m/n/10.53937 www.mcarthurglen.it/no
+ventadipiave 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\TU/lmr/m/n/10.53937 Prada\TU/FandolKai(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937
+ Ferragamo\TU/FandolKai(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937 Fendi\TU/Fandol
+Kai(0)/m/n/10.53937 ，|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\TU/FandolKai(0)/m/n/10.53937 地 址：| \TU/lmr/m/n/10.53937 Via Marco Polo1\TU/Fan
+dolKai(0)/m/n/10.53937 ，|
+ []
+
+[60]
+Overfull \hbox (2.25171pt too wide) in paragraph at lines 140--144
+\TU/FandolKai(0)/m/n/10.53937 网 址：| \TU/lmr/m/n/10.53937 www.fidenzavillage.com
+ 
+ []
+
+
+Overfull \hbox (29.65405pt too wide) in paragraph at lines 146--150
+\TU/FandolKai(0)/m/n/10.53937 网 址：| \TU/lmr/m/n/10.53937 castel-guelfo.thestyle
+outlets.it 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
+\TU/lmr/m/n/10.53937 Terme \TU/FandolKai(0)/m/n/10.53937 免 费 到 达 打 折 村，|
+ []
+
+) (body/tour.tex [61] [62
+
+]
+第\CJKnumber {6}章 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+[64]
+Overfull \hbox (39.326pt too wide) in paragraph at lines 19--22
+[]\TU/FandolKai(0)/m/n/10.53937 天 主 教 博 洛 尼 亚 总 教 区 的 主 教 座 堂。|  位 于 \TU/lmr/m/
+n/10.53937 Via dell’Indipendenza,7
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+[67] [68]
+Overfull \hbox (5.69601pt too wide) in paragraph at lines 50--55
+\TU/lmr/m/n/10.53937 tana\TU/FandolKai(0)/m/n/10.53937 ，|  再 沿 路 向 南 走 一 点 即 到。
+|  遗 址 区 域 名 为：| \TU/lmr/m/n/10.53937 Museo Nazionale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [69]
+Overfull \hbox (7.82516pt too wide) in paragraph at lines 59--64
+\TU/FandolKai(0)/m/n/10.53937 官 方 网 址：| \TU/lmr/m/n/10.53937 https://www.pinaco
+tecabologna.beniculturali.it/it/ 
+ []
+
+
+Overfull \hbox (48.59148pt too wide) in paragraph at lines 66--71
+\TU/lmr/m/n/10.53937 MAMBO \TU/FandolKai(0)/m/n/10.53937 内 有 一 所 图 书 馆、|  一 间 书
+ 店 和 一 个 酒 吧 餐 馆 \TU/lmr/m/n/10.53937 (Bar/Ristorante)\TU/FandolKai(0)/m/n/10.5
+3937 。| 
+ []
+
+[70]) (body/enrollment.tex
+Overfull \hbox (6.09535pt too wide) in paragraph at lines 73--1
+[]\TU/FandolKai(0)/m/n/10.53937 美 术 馆 是 一 座 建 于 十 七 世 纪 的 宫 殿，|  由 建 筑 家 \TU/lm
+r/m/n/10.53937 Bartolomeo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--1
+
+ []
+
+[71] [72]
+第\CJKnumber {7}章 7.
+
+Underfull \vbox (badness 7168) has occurred while \output is active []
+
+ [73
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74]
+File: ./images//studentionlineqrcode.png Graphic file (type bmp)
+<./images//studentionlineqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+ [75]
+[76] [77] [78] [79]
+Overfull \hbox (20.3268pt too wide) in paragraph at lines 64--66
+\TU/FandolKai(0)/m/n/10.53937 站\TU/lmr/m/n/10.53937 :www.unibo.it \TU/FandolKai
+(0)/m/n/10.53937 。|  关 于 个 人 信 息 管 理，|  可 以 登 录\TU/lmr/m/n/10.53937 , studenti.
+unibo.it
+ []
+
+[80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+[82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+[85]
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+ [86]
+[87] (D:\MikTeX\tex/latex/amsfonts\umsa.fd)
+(D:\MikTeX\tex/latex/amsfonts\umsb.fd)
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 146--147
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Overfull \hbox (21.07874pt too wide) in paragraph at lines 158--159
+[][] 
+ []
+
+[89] [90]
+Overfull \hbox (10.63809pt too wide) in paragraph at lines 196--199
+[]\TU/FandolKai(0)/m/n/10.53937 博 洛 尼 亚 爱 乐 音 乐 学 院 \TU/lmr/m/n/10.53937 Accade
+mia Filarmonica di Bologna
+ []
+
+[91] [92]
+File: ./images//almabikeqrcode.png Graphic file (type bmp)
+<./images//almabikeqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [93]
+File: ./images//tper99qrcode.png Graphic file (type bmp)
+<./images//tper99qrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+[94]
+File: ./images//corsiclaqrcode.png Graphic file (type bmp)
+<./images//corsiclaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+Underfull \vbox (badness 5475) has occurred while \output is active []
+
+ [96]
+File: ./images//almawifiqrcode.png Graphic file (type bmp)
+<./images//almawifiqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--256
+
+ []
+
+[97]
+File: ./images//eduroamqrcode.png Graphic file (type bmp)
+<./images//eduroamqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--269
+
+ []
+
+
+Underfull \vbox (badness 1831) has occurred while \output is active []
+
+ [98]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
+
+ []
+
+
+Overfull \hbox (2.997pt too wide) in paragraph at lines 282--284
+[]\TU/FandolKai(0)/m/n/10.53937 同 时 大 学 还 和 大 区 及 市 立 图 书 馆 合 作，|  成 立 了 \TU/lm
+r/m/n/10.53937 SBA/UBO
+ []
+
+[100]
+Overfull \hbox (32.1711pt too wide) in paragraph at lines 286--294
+\TU/lmr/m/n/10.53937 https://almastart.unibo.it/primo-explore/search?vid=39UBO_
+VU 
+ []
+
+
+Overfull \hbox (73.44328pt too wide) in paragraph at lines 297--300
+\TU/FandolKai(0)/m/n/10.53937 对 于 博 洛 尼 亚 大 学 的 学 生，|  通 过 机 构 电 子 邮 件 \TU/lmr/
+m/n/10.53937 name.surname@studio.unibo.it
+ []
+
+
+Underfull \vbox (badness 2285) has occurred while \output is active []
+
+ [101]
+Overfull \hbox (21.33664pt too wide) in paragraph at lines 302--308
+\TU/FandolKai(0)/m/n/10.53937 注 册 网 址：| \TU/lmr/m/n/10.53937 https://it.mathwor
+ks.com/academia/tah-portal/alma-
+ []
+
+[102]
+Overfull \hbox (22.14822pt too wide) in paragraph at lines 310--315
+\TU/FandolKai(0)/m/n/10.53937 可 通 过 他 们 的 大 学 凭 证 \TU/lmr/m/n/10.53937 (@studio
+.unibo.it) \TU/FandolKai(0)/m/n/10.53937 在 \TU/lmr/m/n/10.53937 portal.office36
+5.com
+ []
+
+[103] [104]
+Overfull \hbox (4.93098pt too wide) in paragraph at lines 328--337
+\TU/lmr/m/n/10.53937 Via Zamboni, 63 Bologna, \TU/FandolKai(0)/m/n/10.53937 即 \
+TU/lmr/m/n/10.53937 la Collezione di Geologia  |\TU/FandolKai(0)/m/n/10.53937 “
+\TU/lmr/m/n/10.53937 Museo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+
+ []
+
+[105]) (body/ababo.tex [106]
+第\CJKnumber {8}章 8.
+[107
+
+]
+Overfull \hbox (25.0676pt too wide) in paragraph at lines 21--22
+[]\TU/FandolKai(0)/m/n/10.53937 三 年 制 本 科 共 开 设 \TU/lmr/m/n/10.53937 11 \TU/Fan
+dolKai(0)/m/n/10.53937 个 专 业，|  分 别 为：|  舞 台 美 术  |（\TU/lmr/m/n/10.53937 Scenog
+rafia\TU/FandolKai(0)/m/n/10.53937 ） ，|
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+File: ./images//ababoqrcode.png Graphic file (type bmp)
+<./images//ababoqrcode.png>
+
+Overfull \hbox (76.01486pt too wide) in paragraph at lines 37--42
+\TU/lmr/m/n/10.53937 https://www.servizi2.isidata.net/SSdidatticheac/MainGenera
+le.aspx?lng=it-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
+
+ []
+
+
+Underfull \vbox (badness 7273) has occurred while \output is active []
+
+ [110]
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[111]
+Missing character: There is no   in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (76.01486pt too wide) in paragraph at lines 79--88
+\TU/lmr/m/n/10.53937 https://www.servizi2.isidata.net/SSdidatticheac/MainGenera
+le.aspx?lng=it-
+ []
+
+
+Overfull \hbox (1.35388pt too wide) in paragraph at lines 79--88
+\TU/lmr/m/n/10.53937 di AMMISSIONE\TU/FandolKai(0)/m/n/10.53937 。| \TU/lmr/m/n/
+10.53937 (anche per iscrizione diretta - senza esame
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+[112]
+Overfull \hbox (28.73529pt too wide) in paragraph at lines 91--93
+\TU/FandolKai(0)/m/n/10.53937 及 考 试 地 点 请 登 陆 美 院 官 网 查 询：| \TU/lmr/m/n/10.5393
+7 www.ababo.it/ABA/ammissioni-
+ []
+
+[113]
+Overfull \hbox (35.217pt too wide) in paragraph at lines 95--97
+[]\TU/FandolKai(0)/m/n/10.53937 语 言 考 试 结 果 会 在 一 周 之 内 在 美 院 官 网 首 页 公 布：| \TU
+/lmr/m/n/10.53937 www.ababo.it 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Overfull \hbox (29.18909pt too wide) in paragraph at lines 102--103
+[]\TU/FandolKai(0)/m/n/10.53937 新 生 注 册 申 请 表 一 份  |（\TU/lmr/m/n/10.53937 http:
+//www.ababo.it/ABA/iscrizioni/\TU/FandolKai(0)/m/n/10.53937 ）| 
+ []
+
+[114]
+Overfull \hbox (7.46729pt too wide) in paragraph at lines 106--107
+\TU/lmr/m/n/10.53937 68882703\TU/FandolKai(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53
+937 intestato a \TU/FandolKai(0)/m/n/10.53937 ：| \TU/lmr/m/n/10.53937 Regione E
+milia Romagna\TU/FandolKai(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937 causale:
+ []
+
+
+Overfull \hbox (12.52625pt too wide) in paragraph at lines 107--109
+\TU/lmr/m/n/10.53937 IT76 K070 7202 4040 9000 0178 822 (Emil Banca)intestato
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+ []
+
+[115]
+Overfull \hbox (59.1625pt too wide) in paragraph at lines 119--122
+[]\TU/FandolKai(0)/m/n/10.53937 各 专 业 的 课 表 \TU/lmr/m/n/10.53937 (piano di stud
+io) \TU/FandolKai(0)/m/n/10.53937 在 此 查 询：| \TU/lmr/m/n/10.53937 www.ababo.it/A
+BA/piani-
+ []
+
+
+Overfull \hbox (53.292pt too wide) in paragraph at lines 123--125
+\TU/FandolKai(0)/m/n/10.53937 详 情 及 下 载 链 接 参 考 美 院 官 网：| \TU/lmr/m/n/10.53937 
+http://www.ababo.it/ABA/modulistica-
+ []
+
+
+Overfull \hbox (3.76753pt too wide) in paragraph at lines 123--125
+\TU/lmr/m/n/10.53937 studenti/ workshop \TU/FandolKai(0)/m/n/10.53937 的 不 同 课 程
+ 所 安 排 及 所 给 学 分 不 同，| \TU/lmr/m/n/10.53937 work-
+ []
+
+[116]
+Underfull \vbox (badness 1521) has occurred while \output is active []
+
+ [117]
+Overfull \hbox (101.24829pt too wide) in paragraph at lines 134--136
+\TU/FandolKai(0)/m/n/10.53937 秋 季 \TU/lmr/m/n/10.53937 (9-10 \TU/FandolKai(0)/m
+/n/10.53937 月\TU/lmr/m/n/10.53937 ), \TU/FandolKai(0)/m/n/10.53937 补 考 季 \TU/lm
+r/m/n/10.53937 (2-3 \TU/FandolKai(0)/m/n/10.53937 月\TU/lmr/m/n/10.53937 )\TU/Fa
+ndolKai(0)/m/n/10.53937 。|  考 试 季 为 网 上 预 约 \TU/lmr/m/n/10.53937 (https://www.s
+ervizi.isidata.it)\TU/FandolKai(0)/m/n/10.53937 ，|
+ []
+
+
+Overfull \hbox (90.06384pt too wide) in paragraph at lines 137--140
+\TU/FandolKai(0)/m/n/10.53937 教 程 地 址：| \TU/lmr/m/n/10.53937 http://www.ababo.i
+t/ABA/wpcontent/uploads/2011/07/ESEMPIO-
+ []
+
+
+Overfull \hbox (47.75883pt too wide) in paragraph at lines 137--140
+\TU/FandolKai(0)/m/n/10.53937 至 美 院 秘 书 处，|  申 请 表 下 载 地 址：| \TU/lmr/m/n/10.539
+37 http://www.ababo.it/ABA/iscrizioni/ 
+ []
+
+[118] [119] [120]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+) (body/asscubo.tex [122]
+第\CJKnumber {9}章 9.
+
+Overfull \hbox (38.17842pt too wide) in paragraph at lines 6--11
+\TU/FandolKai(0)/m/n/10.53937 意 大 利 文 名：| \TU/lmr/m/n/10.53937 Associazione di 
+Studenti e Studiosi Cinesi dell’Università
+ []
+
+[123
+
+] [124] [125] [126]) (body/faq.tex [127] [128
+
+]
+第\CJKnumber {10}章 10.
+[129]) (body/Appendix.tex [130]
+第\CJKnumber {11}章 11.
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf>
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf>
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf, page 1>
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf, page 1>
+[131
+
+]
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf, page 1>
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf, page 1>
+File: figures/cf.pdf Graphic file (type pdf)
+<use figures/cf.pdf, page 1>
+ [132]
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+ [133]
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+ [134]
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+ [135]
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf, page 1>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf, page 1>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf, page 1>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf, page 1>
+File: figures/jl4.pdf Graphic file (type pdf)
+<use figures/jl4.pdf, page 1>
+ [136]
+第\CJKnumber {12}章 12.
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf>
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf>
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf, page 1>
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf, page 1>
+[137
+
+]
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf, page 1>
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf, page 1>
+File: figures/m1.pdf Graphic file (type pdf)
+<use figures/m1.pdf, page 1>
+ [138]
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf, page 1>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf, page 1>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf, page 1>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf, page 1>
+File: figures/zdzm.pdf Graphic file (type pdf)
+<use figures/zdzm.pdf, page 1>
+ [139]) (body/biblio.tex [140
+
+]
+Overfull \hbox (100.34409pt too wide) in paragraph at lines 8--9
+[]\TU/FandolKai(0)/m/n/10.53937 意 大 利 身 份 证 \TU/lmr/m/n/10.53937 http://www.com
+une.bologna.it/cittadino/servizi/9:2931/7422/ 
+ []
+
+
+Overfull \hbox (32.9027pt too wide) in paragraph at lines 10--11
+[]\TU/lmr/m/n/10.53937 QS \TU/FandolKai(0)/m/n/10.53937 世 界 大 学 排 名 \TU/lmr/m/n
+/10.53937 https://www.topuniversities.com/university-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]\TU/lmr/m/n/10.53937 TIMES \TU/FandolKai(0)/m/n/10.53937 世 界 大 学 排 名
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+\TU/lmr/m/n/10.53937 https://www.timeshighereducation.com/world-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/FandolKai(0)/m/n/10.53937 上 海 交 大 世 界 大 学 排 名
+ []
+
+
+Overfull \hbox (4.21451pt too wide) in paragraph at lines 12--13
+\TU/lmr/m/n/10.53937 https://www.shanghairanking.com/rankings/arwu/2021 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[]\TU/lmr/m/n/10.53937 USNews \TU/FandolKai(0)/m/n/10.53937 世 界 大 学 排 名
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\TU/lmr/m/n/10.53937 https://www.usnews.com/education/best-global-
+ []
+
+[141]
+Overfull \hbox (93.75699pt too wide) in paragraph at lines 15--16
+[]\TU/FandolKai(0)/m/n/10.53937 意 大 利 罢 工 查 询 网 址 \TU/lmr/m/n/10.53937 http://s
+cioperi.mit.gov.it/mit2/public/scioperi/ricerca 
+ []
+
+) (body/remarks.tex [142]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+)
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+ [143
+
+
+
+]
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+ [144] (short2022.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `short2022.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `short2022.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  434C032A762DA4E4A91233CFB507ED6B;12910.
+ ) 
+Here is how much of TeX's memory you used:
+ 20347 strings out of 410939
+ 436237 string characters out of 2830431
+ 735155 words of memory out of 3000000
+ 40748 multiletter control sequences out of 15000+600000
+ 474714 words of font info for 83 fonts, out of 8000000 for 9000
+ 1350 hyphenation exceptions out of 8191
+ 94i,17n,100p,995b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+Output written on short2022.pdf (156 pages).

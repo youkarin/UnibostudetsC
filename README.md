@@ -10,7 +10,7 @@
 
 xelatex main.tex
 
-If Chinese characters are not displayed in the preview area when editing, please get Texworks 0.6.7 from https://github.com/TeXworks/texworks   
+If Chinese characters are not displayed in the preview area when editing,, please get Texworks 0.6.7 from https://github.com/TeXworks/texworks   
   
 The short.tex version has been customized(shortened) for budget scope in Printing Service shop.
 
@@ -51,9 +51,3 @@ Appendix  ->  附录，已修改上传
 asscubo   ->  博大学联简介，已修改上传   
 biblio    ->  参考文献，已修改上传   
 connect   ->  交通与通信，已修改上传   
-
-2022/05/02  
-上传所有修改好的内容，还缺部分资料未更新，需要等待
-
-2022/05/24   
-美院部分已更新   
