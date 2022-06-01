@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  29 APR 2022 15:03
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  26 MAY 2022 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,27 +754,27 @@ Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault' (FangSong).
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-Package hyperref Info: Link coloring OFF on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+Package hyperref Info: Link coloring OFF on input line 35.
  (D:\MikTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -786,9 +786,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count344
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -801,56 +801,56 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 25.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 25.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 25.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 25.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 25.
-LaTeX Font Info:    Redeclaring math accent \check on input line 25.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 25.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 25.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 25.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 25.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
+LaTeX Font Info:    Redeclaring math accent \check on input line 35.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 25.
+(Font)              `operators' in the math version `normal' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 35.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 25.
+(Font)              `operators' in the math version `bold' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 25.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 25.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 25.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 35.
  (D:\MikTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -928,7 +928,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3])
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -941,19 +950,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]) (body/welcome.tex
+[5] [6
+
+
+]) (body/welcome.tex
 第\CJKnumber {1}章 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--39
-
- []
-
 [1
 
-
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 43--53
+Underfull \hbox (badness 10000) in paragraph at lines 23--39
 
  []
 
@@ -965,7 +970,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2]) (body/firstweek.tex
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--55
+
+ []
+
+) (body/firstweek.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1131,21 +1151,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 232--242
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--244
 
  []
 
 File: ./images//dentistaqrcode.png Graphic file (type bmp)
 <./images//dentistaqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--252
+Underfull \hbox (badness 10000) in paragraph at lines 245--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--252
+Underfull \hbox (badness 10000) in paragraph at lines 245--253
 
  []
+
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1159,30 +1193,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//podologiaqrcode.png Graphic file (type bmp)
 <./images//podologiaqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--262
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--262
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
 
  []
-
-File: ./images//csmqrcode.png Graphic file (type bmp)
-<./images//csmqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--269
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--269
-
- []
-
-
-Underfull \vbox (badness 3179) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1193,19 +1211,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
+File: ./images//csmqrcode.png Graphic file (type bmp)
+<./images//csmqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
+
+ []
+
 File: ./images//sapqrcode.png Graphic file (type bmp)
 <./images//sapqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--277
+Underfull \hbox (badness 10000) in paragraph at lines 270--278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--277
+Underfull \hbox (badness 10000) in paragraph at lines 270--278
 
  []
 
-) (body/connect.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1214,7 +1243,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[17]) (body/connect.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1223,11 +1252,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18
+[18]
+第\CJKnumber {3}章 3.
+[19
 
 ]
-第\CJKnumber {3}章 3.
-[19]
 File: ./images//biglietto.png Graphic file (type bmp)
 <./images//biglietto.png>
 
@@ -1302,12 +1331,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 112--117
+Underfull \hbox (badness 10000) in paragraph at lines 112--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--124
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
 
  []
 
@@ -1320,38 +1349,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--141
+Underfull \hbox (badness 10000) in paragraph at lines 127--143
 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1362,7 +1387,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 151--160
+Underfull \hbox (badness 10000) in paragraph at lines 153--162
 
  []
 
@@ -1375,19 +1400,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 File: ./images//taxiqrcode.png Graphic file (type bmp)
 <./images//taxiqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--176
+Underfull \hbox (badness 10000) in paragraph at lines 168--178
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--176
+Underfull \hbox (badness 10000) in paragraph at lines 168--178
 
  []
 
@@ -1418,12 +1443,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 229--233
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--233
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
 
  []
 
@@ -1436,7 +1461,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Overfull \hbox (0.75851pt too wide) in paragraph at lines 248--249
+Overfull \hbox (0.75851pt too wide) in paragraph at lines 250--251
 []\TU/FandolKai(0)/m/n/12 宽 带 上 网：|  意 大 利 主 要 网 络 运 营 商 包 括 \TU/lmr/m/n/12 Fas
 tweb\TU/FandolKai(0)/m/n/12 、| \TU/lmr/m/n/12 Tim\TU/FandolKai(0)/m/n/12 、| \TU
 /lmr/m/n/12 Infostrada(Wind
@@ -1465,14 +1490,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 第\CJKnumber {4}章 4.
 [33]
-Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
-Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
-Overfull \hbox (40.30249pt too wide) in paragraph at lines 29--32
-\TU/FandolKai(0)/m/n/12 此 外，|  周 二 周 四 额 外 开 门 时 间 \TU/lmr/m/n/12 14:30 \TU/Fan
-dolKai(0)/m/n/12 到 \TU/lmr/m/n/12 16:30  \TU/FandolKai(0)/m/n/12 抵 达 方 式\TU/lmr
-/m/n/12 :14C \TU/FandolKai(0)/m/n/12 线 路\TU/lmr/m/n/12 ,fermata:carpentiere
  []
 
 
@@ -1611,6 +1630,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 第\CJKnumber {6}章 6.
 [43]
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1629,13 +1652,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [45]
-Overfull \hbox (8.69292pt too wide) in paragraph at lines 56--60
-\TU/FandolKai(0)/m/n/12 开 放 时 间：| \TU/lmr/m/n/12 Martedì e mercoledì 9.00 - 13.
-30*; giovedì, venerdì, sabato, domenica
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--55
+
+ []
+
+
+Underfull \vbox (badness 2698) has occurred while \output is active []
 
 
 
@@ -1647,6 +1684,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [46]) (body/enrollment.tex
+Underfull \hbox (badness 10000) in paragraph at lines 73--1
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1664,15 +1705,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48
+[48]
+第\CJKnumber {7}章 7.
+[49
 
 ]
-第\CJKnumber {7}章 7.
-[49]
-Overfull \hbox (2.2398pt too wide) in paragraph at lines 36--38
-[]\TU/FandolKai(0)/m/n/12 大 学 网 站 系 统 发 达\TU/lmr/m/n/12 , \TU/FandolKai(0)/m/n/
-12 各 类 信 息 应 有 尽 有。| \TU/lmr/m/n/12 Bologna \TU/FandolKai(0)/m/n/12 大 学 网 站\TU/
-lmr/m/n/12 :www.unibo.it
+File: ./images//studentionlineqrcode.png Graphic file (type bmp)
+<./images//studentionlineqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
  []
 
 
@@ -1693,9 +1740,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [51]
-Underfull \vbox (badness 2460) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1705,6 +1749,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [52]
+Overfull \hbox (2.2398pt too wide) in paragraph at lines 64--66
+[]\TU/FandolKai(0)/m/n/12 大 学 网 站 系 统 发 达\TU/lmr/m/n/12 , \TU/FandolKai(0)/m/n/
+12 各 类 信 息 应 有 尽 有。| \TU/lmr/m/n/12 Bologna \TU/FandolKai(0)/m/n/12 大 学 网 站\TU/
+lmr/m/n/12 :www.unibo.it
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1723,10 +1773,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
-Overfull \hbox (24.0pt too wide) in paragraph at lines 118--119
-[][] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1736,11 +1782,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55]
-Overfull \hbox (24.0pt too wide) in paragraph at lines 130--131
-[][] 
- []
-
-) (body/ababo.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1759,6 +1800,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [57]
+Overfull \hbox (24.0pt too wide) in paragraph at lines 146--147
+[][] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 158--159
+[][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1767,10 +1817,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58
+[58]
 
-]
-第\CJKnumber {8}章 8.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [59]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1781,9 +1836,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
-Overfull \hbox (71.71179pt too wide) in paragraph at lines 45--46
-\TU/FandolKai(0)/m/n/12 报 名，|  报 名 网 址 为：| \TU/lmr/m/n/12 https://www.servizi.i
-sidata.it/SSdidatticheac/Allievi/LoginAllievi.aspx
+File: ./images//almabikeqrcode.png Graphic file (type bmp)
+<./images//almabikeqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+File: ./images//tper99qrcode.png Graphic file (type bmp)
+<./images//tper99qrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
+
  []
 
 
@@ -1795,6 +1874,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [61]
+File: ./images//corsiclaqrcode.png Graphic file (type bmp)
+<./images//corsiclaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1804,15 +1900,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
-Overfull \hbox (12.86797pt too wide) in paragraph at lines 86--87
-[]\TU/lmr/m/n/12 2.1 \TU/FandolKai(0)/m/n/12 语 言 考 试 结 果 会 在 一 周 之 内 在 美 院 官 网 
-首 页 公 布：| \TU/lmr/m/n/12 www.ababo.it 
- []
+File: ./images//almawifiqrcode.png Graphic file (type bmp)
+<./images//almawifiqrcode.png>
 
+Underfull \hbox (badness 10000) in paragraph at lines 250--256
 
-Overfull \hbox (2.18784pt too wide) in paragraph at lines 103--104
-\TU/lmr/m/n/12 0178 822 (Emil Banca) intestato all\TU/FandolKai(0)/m/n/12 ’| \T
-U/lmr/m/n/12 Accademia di Belle Arti di Bologna,
  []
 
 
@@ -1824,9 +1916,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
-Overfull \hbox (37.512pt too wide) in paragraph at lines 121--125
-\TU/lmr/m/n/12 http://www.ababo.it/ABA/wp-content/uploads/2011/07/MODULO-RICHIE
-STA-
+File: ./images//eduroamqrcode.png Graphic file (type bmp)
+<./images//eduroamqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--269
+
  []
 
 
@@ -1838,9 +1932,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-Overfull \hbox (22.692pt too wide) in paragraph at lines 139--140
-\TU/FandolKai(0)/m/n/12 字 并 投 至 系 办 公 室 门 口 信 箱，|  申 请 表 下 载 地 址：| \TU/lmr/m/n/
-12 http://www.ababo.it/ABA/tesi/\TU/FandolKai(0)/m/n/12 ，|
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
+
  []
 
 
@@ -1852,20 +1945,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [65]
-Overfull \hbox (28.55049pt too wide) in paragraph at lines 151--152
-[]\TU/FandolKai(0)/m/n/12 毕 业 论 文 电 子 版 \TU/lmr/m/n/12 CD(\TU/FandolKai(0)/m/n/
-12 封 面 需 按 照 要 求 打 印 并 有 论 文 指 导 教 授 签 字\TU/lmr/m/n/12 )(Allegato
+Overfull \hbox (4.408pt too wide) in paragraph at lines 297--300
+\TU/FandolKai(0)/m/n/12 对 于 博 洛 尼 亚 大 学 的 学 生，|  通 过 机 构 电 子 邮 件 \TU/lmr/m/n/12
+ name.surname@studio.unibo.it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
-
-Overfull \hbox (22.824pt too wide) in paragraph at lines 164--167
-\TU/FandolKai(0)/m/n/12 教 程 地 址：| \TU/lmr/m/n/12 http://www.ababo.it/ABA/wp-con
-tent/uploads/2011/07/ESEMPIO-
+Overfull \hbox (32.784pt too wide) in paragraph at lines 302--308
+\TU/FandolKai(0)/m/n/12 注 册 网 址：| \TU/lmr/m/n/12 https://it.mathworks.com/acade
+mia/tah-portal/alma-mater-studiorum-
  []
 
 
@@ -1876,7 +1964,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66]) (body/asscubo.tex
+[66]
+Overfull \hbox (1.62271pt too wide) in paragraph at lines 310--315
+[]\TU/FandolKai(0)/m/n/12 根 据 与 微 软 的 协 议，|  博 洛 尼 亚 大 学 的 所 有 学 生 都 可 以 免 费 使 
+用 \TU/lmr/m/n/12 Office365
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1886,6 +1979,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [67]
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+
+ []
+
+) (body/ababo.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1894,14 +1992,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[68
+[68]
+第\CJKnumber {8}章 8.
+[69
 
 ]
-第\CJKnumber {9}章 9.
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ []
 
- [69]
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+File: ./images//ababoqrcode.png Graphic file (type bmp)
+<./images//ababoqrcode.png>
+
+Overfull \hbox (2.388pt too wide) in paragraph at lines 37--42
+\TU/lmr/m/n/12 https://www.servizi2.isidata.net/SSdidatticheac/MainGenerale.asp
+x?lng=it-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1911,6 +2033,182 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [70]
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
+
+Overfull \hbox (2.388pt too wide) in paragraph at lines 79--88
+\TU/lmr/m/n/12 https://www.servizi2.isidata.net/SSdidatticheac/MainGenerale.asp
+x?lng=it-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75]
+Overfull \hbox (19.236pt too wide) in paragraph at lines 137--140
+\TU/FandolKai(0)/m/n/12 教 程 地 址：| \TU/lmr/m/n/12 http://www.ababo.it/ABA/wpcont
+ent/uploads/2011/07/ESEMPIO-
+ []
+
+
+Underfull \vbox (badness 2573) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76]
+Overfull \hbox (22.692pt too wide) in paragraph at lines 148--149
+\TU/FandolKai(0)/m/n/12 字 并 投 至 系 办 公 室 门 口 信 箱，|  申 请 表 下 载 地 址：| \TU/lmr/m/n/
+12 http://www.ababo.it/ABA/tesi/\TU/FandolKai(0)/m/n/12 ，|
+ []
+
+
+Overfull \hbox (28.55049pt too wide) in paragraph at lines 160--161
+[]\TU/FandolKai(0)/m/n/12 毕 业 论 文 电 子 版 \TU/lmr/m/n/12 CD(\TU/FandolKai(0)/m/n/
+12 封 面 需 按 照 要 求 打 印 并 有 论 文 指 导 教 授 签 字\TU/lmr/m/n/12 )(Allegato
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+) (body/asscubo.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
+第\CJKnumber {9}章 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
 Overfull \hbox (36.67601pt too wide) in paragraph at lines 56--58
 []\TU/FandolKai(0)/m/n/12 想 要 加 入 我 们 的 话，|  请 发 送 申 请 意 向 及 个 人 简 历 至 我 们 的 邮 
 箱 \TU/lmr/m/n/12 unibo@cssui.org 
@@ -1924,7 +2222,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71]) (body/faq.tex
+[81]) (body/faq.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1933,9 +2231,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]
+[82]
 第\CJKnumber {10}章 10.
-[73
+[83
 
 ]) (body/Appendix.tex
 
@@ -1946,7 +2244,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[74]
+[84]
 第\CJKnumber {11}章 11.
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf>
@@ -1956,7 +2254,7 @@ File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
-[75
+[85
 
 ]
 File: figures/cf.pdf Graphic file (type pdf)
@@ -1965,7 +2263,7 @@ File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
- [76]
+ [86]
 File: figures/jl1.pdf Graphic file (type pdf)
 <use figures/jl1.pdf>
 File: figures/jl1.pdf Graphic file (type pdf)
@@ -1980,7 +2278,7 @@ File: figures/jl1.pdf Graphic file (type pdf)
 <use figures/jl1.pdf, page 1>
 File: figures/jl1.pdf Graphic file (type pdf)
 <use figures/jl1.pdf, page 1>
- [77]
+ [87]
 File: figures/jl2.pdf Graphic file (type pdf)
 <use figures/jl2.pdf>
 File: figures/jl2.pdf Graphic file (type pdf)
@@ -1995,7 +2293,7 @@ File: figures/jl2.pdf Graphic file (type pdf)
 <use figures/jl2.pdf, page 1>
 File: figures/jl2.pdf Graphic file (type pdf)
 <use figures/jl2.pdf, page 1>
- [78]
+ [88]
 File: figures/jl3.pdf Graphic file (type pdf)
 <use figures/jl3.pdf>
 File: figures/jl3.pdf Graphic file (type pdf)
@@ -2010,7 +2308,7 @@ File: figures/jl3.pdf Graphic file (type pdf)
 <use figures/jl3.pdf, page 1>
 File: figures/jl3.pdf Graphic file (type pdf)
 <use figures/jl3.pdf, page 1>
- [79]
+ [89]
 File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf>
 File: figures/jl4.pdf Graphic file (type pdf)
@@ -2025,7 +2323,7 @@ File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf, page 1>
 File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf, page 1>
- [80]
+ [90]
 第\CJKnumber {12}章 12.
 File: figures/m1.pdf Graphic file (type pdf)
 <use figures/m1.pdf>
@@ -2035,7 +2333,7 @@ File: figures/m1.pdf Graphic file (type pdf)
 <use figures/m1.pdf, page 1>
 File: figures/m1.pdf Graphic file (type pdf)
 <use figures/m1.pdf, page 1>
-[81
+[91
 
 ]
 File: figures/m1.pdf Graphic file (type pdf)
@@ -2044,7 +2342,7 @@ File: figures/m1.pdf Graphic file (type pdf)
 <use figures/m1.pdf, page 1>
 File: figures/m1.pdf Graphic file (type pdf)
 <use figures/m1.pdf, page 1>
- [82]
+ [92]
 File: figures/zdzm.pdf Graphic file (type pdf)
 <use figures/zdzm.pdf>
 File: figures/zdzm.pdf Graphic file (type pdf)
@@ -2059,7 +2357,7 @@ File: figures/zdzm.pdf Graphic file (type pdf)
 <use figures/zdzm.pdf, page 1>
 File: figures/zdzm.pdf Graphic file (type pdf)
 <use figures/zdzm.pdf, page 1>
- [83]) (body/biblio.tex
+ [93]) (body/biblio.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2068,7 +2366,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[84
+[94
 
 ]
 Overfull \hbox (31.552pt too wide) in paragraph at lines 8--9
@@ -2100,7 +2398,7 @@ Overfull \hbox (24.80798pt too wide) in paragraph at lines 15--16
 gov.it/mit2/public/scioperi/ricerca 
  []
 
-) (body/remarks.tex [85] [86
+) (body/remarks.tex [95] [96
 
 
 ]
@@ -2122,7 +2420,7 @@ File: figures/c2.pdf Graphic file (type pdf)
 <use figures/c2.pdf, page 1>
 File: figures/c2.pdf Graphic file (type pdf)
 <use figures/c2.pdf, page 1>
- [87
+ [97
 
 ]
 File: figures/c2.pdf Graphic file (type pdf)
@@ -2131,20 +2429,20 @@ File: figures/c2.pdf Graphic file (type pdf)
 <use figures/c2.pdf, page 1>
 File: figures/c2.pdf Graphic file (type pdf)
 <use figures/c2.pdf, page 1>
- [88] (main.aux)
+ [98] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D2FF28B2D7A7F4EDE409FE5D66A1ED24;10890.
+(rerunfilecheck)             Checksum: 434C032A762DA4E4A91233CFB507ED6B;12910.
  ) 
 Here is how much of TeX's memory you used:
- 20068 strings out of 410939
- 422148 string characters out of 2830431
- 755917 words of memory out of 3000000
- 40471 multiletter control sequences out of 15000+600000
+ 20267 strings out of 410939
+ 430310 string characters out of 2830431
+ 755107 words of memory out of 3000000
+ 40670 multiletter control sequences out of 15000+600000
  476488 words of font info for 85 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 94i,17n,100p,927b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 94i,17n,100p,984b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.pdf (98 pages).
+Output written on main.pdf (110 pages).

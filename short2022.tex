@@ -1,0 +1,144 @@
+\documentclass[3pt,a5paper,openright,twoside]{book}
+% \documentclass[12pt,a5paper,openright,twoside]{book}
+% \special{papersize=140mm,203mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%项目说明：博洛尼亚大学中国学联新生手册，借鉴前辈们多年的经验，让你在意大利博洛尼亚市生活得更舒适，更开心。
+%项目地址：https://github.com/youkarin/UnibostudetsC
+%本手册使用Latex-Xelatex引擎生成，main.tex为主文档，short.tex为适应打印的版本
+%使用Latex编辑时，如果预览区不显示中文，请从https://github.com/TeXworks/texworks获取Texworks 0.6.7
+%所有超链接及图片跳转链接均在主文档生成后使用Acrobat添加。
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\hypersetup{hypertex=true, 
+%           colorlinks=true,
+%            linkcolor=black,
+%            anchorcolor=black,
+%            citecolor=blue
+%            breaklinks=true}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%超链接宏，目前有瑕疵。
+
+
+
+\oddsidemargin=10pt \evensidemargin=-10pt
+
+\usepackage{multicol}
+\usepackage{layout}
+\usepackage[usenames, dvipsnames]{color}
+
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\input{setup/package}   
+\input{setup/format}   
+
+       
+       \let\olditemize\itemize
+\renewcommand\itemize{\olditemize\addtolength{\itemsep}{-10pt}}%
+%
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     declaration     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\includepdf{figures/c1.pdf}
+	% \maketitle
+	% \vfill
+ %    \includegraphics[width=140mm]{figures/f1.jpg} % also works with logo.pdf
+ %    \vfill
+
+\input{body/preface} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%imposta l'intestazione di pagina
+\lhead[\fancyplain{}{\bfseries\thepage}]{\fancyplain{}{\bfseries\rightmark}}
+\pagenumbering{arabic}                  %mette i numeri arabi
+
+
+% \cfoot{ \colorbox{BurntOrange} 
+\input{body/welcome}  
+\input{body/firstweek} 
+\input{body/connect} 
+\input{body/utiles} 
+\input{body/locals}
+\input{body/tour}
+\input{body/enrollment} 
+\input{body/ababo} 
+\input{body/asscubo}
+\input{body/faq} 
+% \input{body/firstweek} 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     Intro     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% % \chapter{Introduction}  
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%imposta l'intestazione di pagina
+% % \lhead[\fancyplain{}{\bfseries\thepage}]{\fancyplain{}{\bfseries\rightmark}}
+% % \pagenumbering{arabic}                  %mette i numeri arabi
+
+% \input{body/conclusions} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%imposta l'intestazione di pagina
+\renewcommand{\chaptermark}[1]{\markright{\thechapter \ #1}{}}
+\lhead[\fancyplain{}{\bfseries\thepage}]{\fancyplain{}{\bfseries\rightmark}}
+% \appendix            
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     First Appendix     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\input{body/Appendix} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     thebibliography     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\input{body/biblio} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     Ringraziamenti     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{body/remarks} 
+\includepdf{figures/c2.pdf}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+%  ---     End     ---
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
