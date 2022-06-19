@@ -59,128 +59,134 @@
 \contentsline {subsection}{\numberline {4.2.3}失物招领}{34}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Bologna 市失物招领中心}{34}{subsection.4.2.4}%
 \contentsline {section}{\numberline {4.3}驾照}{34}{section.4.3}%
-\contentsline {chapter}{\numberline {5}生活与购物}{37}{chapter.5}%
-\contentsline {section}{\numberline {5.1}中国超市}{37}{section.5.1}%
-\contentsline {section}{\numberline {5.2}中餐厅}{37}{section.5.2}%
-\contentsline {section}{\numberline {5.3}美甲服务}{38}{section.5.3}%
-\contentsline {section}{\numberline {5.4}兽医}{38}{section.5.4}%
-\contentsline {section}{\numberline {5.5}意大利超市}{38}{section.5.5}%
-\contentsline {section}{\numberline {5.6}西餐厅}{38}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}味美价廉}{38}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}高档餐厅}{39}{subsection.5.6.2}%
-\contentsline {section}{\numberline {5.7}意大利主要打折村}{40}{section.5.7}%
-\contentsline {subsubsection}{THE MALL（佛罗伦萨附近)}{40}{section.5.7}%
-\contentsline {subsubsection}{Barberino Designer Outlet佛罗伦萨附近)}{40}{section.5.7}%
-\contentsline {subsubsection}{SERRAVALLE DESIGNER OUTLET（米兰附近)}{40}{section.5.7}%
-\contentsline {subsubsection}{Veneto Designer Outlet（威尼斯附近)}{41}{section.5.7}%
-\contentsline {subsubsection}{Fidenza Village（帕尔马附近)}{41}{section.5.7}%
-\contentsline {subsubsection}{Castel Guelfo, The style outlets（博洛尼亚附近)}{41}{section.5.7}%
-\contentsline {chapter}{\numberline {6}博洛尼亚景点}{43}{chapter.6}%
-\contentsline {section}{\numberline {6.1}博洛尼亚景点}{43}{section.6.1}%
-\contentsline {subsubsection}{Due Torri 双塔}{43}{section.6.1}%
-\contentsline {subsubsection}{Piazza Maggiore 主广场}{43}{section.6.1}%
-\contentsline {subsubsection}{Palazzo dell'Archiginnasio 大学旧址}{43}{section.6.1}%
-\contentsline {subsubsection}{Cattedrale Metropolitana di San Pietro 主教堂}{44}{section.6.1}%
-\contentsline {subsubsection}{Basilica di San Petronio 大教堂}{44}{section.6.1}%
-\contentsline {subsubsection}{Palazzo d'Accursio}{44}{section.6.1}%
-\contentsline {subsubsection}{Fontana di Nettuno}{45}{section.6.1}%
-\contentsline {subsubsection}{Santuario Madonna di San Luca}{45}{section.6.1}%
-\contentsline {subsubsection}{Portici di Bologna}{45}{section.6.1}%
-\contentsline {subsubsection}{Marzabotto}{46}{section.6.1}%
-\contentsline {section}{\numberline {6.2}推荐博物馆}{47}{section.6.2}%
-\contentsline {subsubsection}{Pinacoteca Nazionale Bologna 国立博洛尼亚美术馆}{47}{section.6.2}%
-\contentsline {subsubsection}{MAMBO}{47}{section.6.2}%
-\contentsline {subsubsection}{Museo Civico Bargellini 工艺美术馆}{47}{section.6.2}%
-\contentsline {chapter}{\numberline {7}UNIBO - 博洛尼亚大学}{49}{chapter.7}%
-\contentsline {section}{\numberline {7.1}大学简介}{49}{section.7.1}%
-\contentsline {section}{\numberline {7.2}入学注册}{50}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Studenti online网站注册}{50}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}马可波罗计划生}{51}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}参加意大利语考试或持有意大利语证书 (免考)}{52}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}无专业入学考试的情况}{52}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}正式注册入学}{52}{subsection.7.2.5}%
-\contentsline {section}{\numberline {7.3}入学之后}{53}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}ALMAWIFI 无线网}{53}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}次年注册手续}{54}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}学费}{54}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}学分制系统介绍}{54}{subsection.7.3.4}%
-\contentsline {subsection}{\numberline {7.3.5}选课及学习计划(Piani di studio)}{54}{subsection.7.3.5}%
-\contentsline {subsection}{\numberline {7.3.6}考试制度}{55}{subsection.7.3.6}%
-\contentsline {subsection}{\numberline {7.3.7}毕业论文/设计}{56}{subsection.7.3.7}%
-\contentsline {subsection}{\numberline {7.3.8}实习 (Tirocinio)}{56}{subsection.7.3.8}%
-\contentsline {subsection}{\numberline {7.3.9}留学回国人员证明}{57}{subsection.7.3.9}%
-\contentsline {section}{\numberline {7.4}学费减免及奖学金}{57}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}申请基本流程}{57}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}申请奖学金的基本学分要求}{58}{subsection.7.4.2}%
-\contentsline {subsubsection}{学分要求}{58}{subsection.7.4.2}%
-\contentsline {subsubsection}{本科}{58}{subsection.7.4.2}%
-\contentsline {subsubsection}{研究生}{58}{subsection.7.4.2}%
-\contentsline {subsubsection}{借学分(Bonus)}{58}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}家庭经济状况证明需准备之材料}{59}{subsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.4.4}办理奖学金的注意事项}{59}{subsection.7.4.4}%
-\contentsline {section}{\numberline {7.5}大学的福利}{59}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}影院、博物馆和剧院等}{59}{subsection.7.5.1}%
-\contentsline {subsubsection}{大学博物馆系统 - SMA}{60}{subsection.7.5.1}%
-\contentsline {subsubsection}{爱乐学院音乐会}{60}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}交通福利}{60}{subsection.7.5.2}%
-\contentsline {subsubsection}{Almabike}{60}{subsection.7.5.2}%
-\contentsline {subsubsection}{Tper公交年票}{61}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}大学语言中心 - CLA}{62}{subsection.7.5.3}%
-\contentsline {subsection}{\numberline {7.5.4}YoungERcard}{62}{subsection.7.5.4}%
-\contentsline {subsection}{\numberline {7.5.5}大学音乐学院}{63}{subsection.7.5.5}%
-\contentsline {subsection}{\numberline {7.5.6}Wi-Fi}{63}{subsection.7.5.6}%
-\contentsline {subsubsection}{ALMAWIFI}{63}{subsection.7.5.6}%
-\contentsline {subsubsection}{Iperbole}{64}{subsection.7.5.6}%
-\contentsline {subsubsection}{Eduroam}{64}{subsection.7.5.6}%
-\contentsline {subsection}{\numberline {7.5.7}大学周边}{64}{subsection.7.5.7}%
-\contentsline {subsection}{\numberline {7.5.8}图书馆系统}{65}{subsection.7.5.8}%
-\contentsline {subsubsection}{SBA}{65}{subsection.7.5.8}%
-\contentsline {subsubsection}{SBN/UBO}{65}{subsection.7.5.8}%
-\contentsline {subsubsection}{AlmaRE}{65}{subsection.7.5.8}%
-\contentsline {subsection}{\numberline {7.5.9}软件折扣}{66}{subsection.7.5.9}%
-\contentsline {subsubsection}{Prezi}{66}{subsection.7.5.9}%
-\contentsline {subsubsection}{MATLAB}{66}{subsection.7.5.9}%
-\contentsline {subsubsection}{Microsoft Office 365}{67}{subsection.7.5.9}%
-\contentsline {subsubsection}{其他}{68}{subsection.7.5.9}%
-\contentsline {subsection}{\numberline {7.5.10}如果您是一位母亲}{68}{subsection.7.5.10}%
-\contentsline {chapter}{\numberline {8}博洛尼亚美院入学指南}{69}{chapter.8}%
-\contentsline {section}{\numberline {8.1}博洛尼亚美术学院简介}{69}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}院系}{69}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}学位专业}{69}{subsection.8.1.2}%
-\contentsline {subsubsection}{本科}{69}{subsection.8.1.2}%
-\contentsline {subsubsection}{硕士}{70}{subsection.8.1.2}%
-\contentsline {section}{\numberline {8.2}博洛尼亚美术学院入学考试注册说明}{70}{section.8.2}%
-\contentsline {section}{\numberline {8.3}参加入学考试}{73}{section.8.3}%
-\contentsline {subsection}{\numberline {8.3.1}考试内容}{73}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}考试结果查询}{73}{subsection.8.3.2}%
-\contentsline {section}{\numberline {8.4}正式注册入学}{73}{section.8.4}%
-\contentsline {section}{\numberline {8.5}美院地图}{74}{section.8.5}%
-\contentsline {subsection}{\numberline {8.5.1}上课时间及安排}{74}{subsection.8.5.1}%
-\contentsline {subsubsection}{选课，课表提交及workshop}{75}{subsection.8.5.1}%
-\contentsline {subsubsection}{workshop学分获取说明}{75}{subsection.8.5.1}%
-\contentsline {subsubsection}{学生卡、学生手册及居留证明}{75}{subsection.8.5.1}%
-\contentsline {subsubsection}{考试流程}{76}{subsection.8.5.1}%
-\contentsline {subsubsection}{老生新学期注册}{76}{subsection.8.5.1}%
-\contentsline {subsubsection}{ER-GO奖学金学分要求}{76}{subsection.8.5.1}%
-\contentsline {section}{\numberline {8.6}毕业相关}{77}{section.8.6}%
-\contentsline {subsubsection}{第一步：提交毕业申请表}{77}{section.8.6}%
-\contentsline {subsubsection}{第二步：提交毕业所需材料}{77}{section.8.6}%
-\contentsline {subsubsection}{第三步：毕业答辩}{78}{section.8.6}%
-\contentsline {section}{\numberline {8.7}博美中国学联简介}{78}{section.8.7}%
-\contentsline {chapter}{\numberline {9}博洛尼亚大学中国学联}{79}{chapter.9}%
-\contentsline {section}{\numberline {9.1}学联简介}{79}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}学联性质}{79}{subsection.9.1.1}%
-\contentsline {subsection}{\numberline {9.1.2}学联宗旨}{79}{subsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.1.3}学联成员}{80}{subsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.1.4}学联构成}{80}{subsection.9.1.4}%
-\contentsline {subsection}{\numberline {9.1.5}部门和职位}{80}{subsection.9.1.5}%
-\contentsline {subsection}{\numberline {9.1.6}学联办公室}{81}{subsection.9.1.6}%
-\contentsline {subsection}{\numberline {9.1.7}合作伙伴}{81}{subsection.9.1.7}%
-\contentsline {section}{\numberline {9.2}学联联系方式}{81}{section.9.2}%
-\contentsline {section}{\numberline {9.3}加入学联}{81}{section.9.3}%
-\contentsline {section}{\numberline {9.4}加入学联的好处}{82}{section.9.4}%
-\contentsline {chapter}{\numberline {10}常见问题 FAQ}{83}{chapter.10}%
-\contentsline {chapter}{\numberline {11}附录A， 税卡，居留}{85}{chapter.11}%
-\contentsline {chapter}{\numberline {12}附录 B, 美院表格}{91}{chapter.12}%
-\contentsline {chapter}{参考链接}{95}{chapter*.4}%
+\contentsline {section}{\numberline {4.4}App推荐}{35}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}学习类}{35}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}音乐流媒体}{36}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}通讯工具}{36}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}交通出行}{36}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}饮食外卖}{37}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}消费付款}{37}{subsection.4.4.6}%
+\contentsline {chapter}{\numberline {5}生活与购物}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}中国超市}{39}{section.5.1}%
+\contentsline {section}{\numberline {5.2}中餐厅}{39}{section.5.2}%
+\contentsline {section}{\numberline {5.3}美甲服务}{40}{section.5.3}%
+\contentsline {section}{\numberline {5.4}兽医}{40}{section.5.4}%
+\contentsline {section}{\numberline {5.5}意大利超市}{40}{section.5.5}%
+\contentsline {section}{\numberline {5.6}西餐厅}{40}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}味美价廉}{40}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}高档餐厅}{41}{subsection.5.6.2}%
+\contentsline {section}{\numberline {5.7}意大利主要打折村}{42}{section.5.7}%
+\contentsline {subsubsection}{THE MALL（佛罗伦萨附近)}{42}{section.5.7}%
+\contentsline {subsubsection}{Barberino Designer Outlet佛罗伦萨附近)}{42}{section.5.7}%
+\contentsline {subsubsection}{SERRAVALLE DESIGNER OUTLET（米兰附近)}{42}{section.5.7}%
+\contentsline {subsubsection}{Veneto Designer Outlet（威尼斯附近)}{43}{section.5.7}%
+\contentsline {subsubsection}{Fidenza Village（帕尔马附近)}{43}{section.5.7}%
+\contentsline {subsubsection}{Castel Guelfo, The style outlets（博洛尼亚附近)}{43}{section.5.7}%
+\contentsline {chapter}{\numberline {6}博洛尼亚景点}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}博洛尼亚景点}{45}{section.6.1}%
+\contentsline {subsubsection}{Due Torri 双塔}{45}{section.6.1}%
+\contentsline {subsubsection}{Piazza Maggiore 主广场}{45}{section.6.1}%
+\contentsline {subsubsection}{Palazzo dell'Archiginnasio 大学旧址}{45}{section.6.1}%
+\contentsline {subsubsection}{Cattedrale Metropolitana di San Pietro 主教堂}{46}{section.6.1}%
+\contentsline {subsubsection}{Basilica di San Petronio 大教堂}{46}{section.6.1}%
+\contentsline {subsubsection}{Palazzo d'Accursio}{46}{section.6.1}%
+\contentsline {subsubsection}{Fontana di Nettuno}{47}{section.6.1}%
+\contentsline {subsubsection}{Santuario Madonna di San Luca}{47}{section.6.1}%
+\contentsline {subsubsection}{Portici di Bologna}{47}{section.6.1}%
+\contentsline {subsubsection}{Marzabotto}{48}{section.6.1}%
+\contentsline {section}{\numberline {6.2}推荐博物馆}{49}{section.6.2}%
+\contentsline {subsubsection}{Pinacoteca Nazionale Bologna 国立博洛尼亚美术馆}{49}{section.6.2}%
+\contentsline {subsubsection}{MAMBO}{49}{section.6.2}%
+\contentsline {subsubsection}{Museo Civico Bargellini 工艺美术馆}{49}{section.6.2}%
+\contentsline {chapter}{\numberline {7}UNIBO - 博洛尼亚大学}{51}{chapter.7}%
+\contentsline {section}{\numberline {7.1}大学简介}{51}{section.7.1}%
+\contentsline {section}{\numberline {7.2}入学注册}{52}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Studenti online网站注册}{52}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}马可波罗计划生}{53}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}参加意大利语考试或持有意大利语证书 (免考)}{54}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}无专业入学考试的情况}{54}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}正式注册入学}{54}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}入学之后}{55}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}ALMAWIFI 无线网}{55}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}次年注册手续}{56}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}学费}{56}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}学分制系统介绍}{56}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.5}选课及学习计划(Piani di studio)}{56}{subsection.7.3.5}%
+\contentsline {subsection}{\numberline {7.3.6}考试制度}{57}{subsection.7.3.6}%
+\contentsline {subsection}{\numberline {7.3.7}毕业论文/设计}{58}{subsection.7.3.7}%
+\contentsline {subsection}{\numberline {7.3.8}实习 (Tirocinio)}{58}{subsection.7.3.8}%
+\contentsline {subsection}{\numberline {7.3.9}留学回国人员证明}{59}{subsection.7.3.9}%
+\contentsline {section}{\numberline {7.4}学费减免及奖学金}{59}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}申请基本流程}{59}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}申请奖学金的基本学分要求}{60}{subsection.7.4.2}%
+\contentsline {subsubsection}{学分要求}{60}{subsection.7.4.2}%
+\contentsline {subsubsection}{本科}{60}{subsection.7.4.2}%
+\contentsline {subsubsection}{研究生}{60}{subsection.7.4.2}%
+\contentsline {subsubsection}{借学分(Bonus)}{60}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}家庭经济状况证明需准备之材料}{61}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}办理奖学金的注意事项}{61}{subsection.7.4.4}%
+\contentsline {section}{\numberline {7.5}大学的福利}{61}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}影院、博物馆和剧院等}{61}{subsection.7.5.1}%
+\contentsline {subsubsection}{大学博物馆系统 - SMA}{62}{subsection.7.5.1}%
+\contentsline {subsubsection}{爱乐学院音乐会}{62}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}交通福利}{62}{subsection.7.5.2}%
+\contentsline {subsubsection}{Almabike}{62}{subsection.7.5.2}%
+\contentsline {subsubsection}{Tper公交年票}{63}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}大学语言中心 - CLA}{64}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}YoungERcard}{64}{subsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.5.5}大学音乐学院}{65}{subsection.7.5.5}%
+\contentsline {subsection}{\numberline {7.5.6}Wi-Fi}{65}{subsection.7.5.6}%
+\contentsline {subsubsection}{ALMAWIFI}{65}{subsection.7.5.6}%
+\contentsline {subsubsection}{Iperbole}{66}{subsection.7.5.6}%
+\contentsline {subsubsection}{Eduroam}{66}{subsection.7.5.6}%
+\contentsline {subsection}{\numberline {7.5.7}大学周边}{66}{subsection.7.5.7}%
+\contentsline {subsection}{\numberline {7.5.8}图书馆系统}{67}{subsection.7.5.8}%
+\contentsline {subsubsection}{SBA}{67}{subsection.7.5.8}%
+\contentsline {subsubsection}{SBN/UBO}{67}{subsection.7.5.8}%
+\contentsline {subsubsection}{AlmaRE}{67}{subsection.7.5.8}%
+\contentsline {subsection}{\numberline {7.5.9}软件折扣}{68}{subsection.7.5.9}%
+\contentsline {subsubsection}{Prezi}{68}{subsection.7.5.9}%
+\contentsline {subsubsection}{MATLAB}{68}{subsection.7.5.9}%
+\contentsline {subsubsection}{Microsoft Office 365}{69}{subsection.7.5.9}%
+\contentsline {subsubsection}{其他}{70}{subsection.7.5.9}%
+\contentsline {subsection}{\numberline {7.5.10}如果您是一位母亲}{70}{subsection.7.5.10}%
+\contentsline {chapter}{\numberline {8}博洛尼亚美院入学指南}{71}{chapter.8}%
+\contentsline {section}{\numberline {8.1}博洛尼亚美术学院简介}{71}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}院系}{71}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}学位专业}{71}{subsection.8.1.2}%
+\contentsline {subsubsection}{本科}{71}{subsection.8.1.2}%
+\contentsline {subsubsection}{硕士}{72}{subsection.8.1.2}%
+\contentsline {section}{\numberline {8.2}博洛尼亚美术学院入学考试注册说明}{72}{section.8.2}%
+\contentsline {section}{\numberline {8.3}参加入学考试}{75}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}考试内容}{75}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}考试结果查询}{75}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}正式注册入学}{75}{section.8.4}%
+\contentsline {section}{\numberline {8.5}美院地图}{76}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}上课时间及安排}{76}{subsection.8.5.1}%
+\contentsline {subsubsection}{选课，课表提交及workshop}{77}{subsection.8.5.1}%
+\contentsline {subsubsection}{workshop学分获取说明}{77}{subsection.8.5.1}%
+\contentsline {subsubsection}{学生卡、学生手册及居留证明}{77}{subsection.8.5.1}%
+\contentsline {subsubsection}{考试流程}{78}{subsection.8.5.1}%
+\contentsline {subsubsection}{老生新学期注册}{78}{subsection.8.5.1}%
+\contentsline {subsubsection}{ER-GO奖学金学分要求}{78}{subsection.8.5.1}%
+\contentsline {section}{\numberline {8.6}毕业相关}{79}{section.8.6}%
+\contentsline {subsubsection}{第一步：提交毕业申请表}{79}{section.8.6}%
+\contentsline {subsubsection}{第二步：提交毕业所需材料}{79}{section.8.6}%
+\contentsline {subsubsection}{第三步：毕业答辩}{80}{section.8.6}%
+\contentsline {section}{\numberline {8.7}博美中国学联简介}{80}{section.8.7}%
+\contentsline {chapter}{\numberline {9}博洛尼亚大学中国学联}{81}{chapter.9}%
+\contentsline {section}{\numberline {9.1}学联简介}{81}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}学联性质}{81}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}学联宗旨}{81}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}学联成员}{82}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}学联构成}{82}{subsection.9.1.4}%
+\contentsline {subsection}{\numberline {9.1.5}部门和职位}{82}{subsection.9.1.5}%
+\contentsline {subsection}{\numberline {9.1.6}学联办公室}{83}{subsection.9.1.6}%
+\contentsline {subsection}{\numberline {9.1.7}合作伙伴}{83}{subsection.9.1.7}%
+\contentsline {section}{\numberline {9.2}学联联系方式}{83}{section.9.2}%
+\contentsline {section}{\numberline {9.3}加入学联}{83}{section.9.3}%
+\contentsline {section}{\numberline {9.4}加入学联的好处}{84}{section.9.4}%
+\contentsline {chapter}{\numberline {10}常见问题 FAQ}{85}{chapter.10}%
+\contentsline {chapter}{\numberline {11}附录A， 税卡，居留}{87}{chapter.11}%
+\contentsline {chapter}{参考链接}{93}{chapter*.4}%
 \contentsfinish 
