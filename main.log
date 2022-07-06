@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  4 JUL 2022 22:32
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  6 JUL 2022 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -919,7 +919,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 
 LaTeX Font Warning: Font shape `TU/FandolKai(0)/m/sl' undefined
-(Font)              using `TU/FandolKai(0)/m/n' instead on input line 78.
+(Font)              using `TU/FandolKai(0)/m/n' instead on input line 84.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1092,7 +1092,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
+Underfull \hbox (badness 10000) in paragraph at lines 94--99
 
  []
 
@@ -1105,9 +1105,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 
  []
+
+
+Underfull \vbox (badness 2088) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1127,6 +1131,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1139,7 +1146,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//bancaincinaqrcode.png Graphic file (type bmp)
 <./images//bancaincinaqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--175
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
 
  []
 
@@ -1161,35 +1168,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 232--244
+Underfull \hbox (badness 10000) in paragraph at lines 233--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--244
+Underfull \hbox (badness 10000) in paragraph at lines 233--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--244
+Underfull \hbox (badness 10000) in paragraph at lines 233--245
 
  []
-
-File: ./images//dentistaqrcode.png Graphic file (type bmp)
-<./images//dentistaqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 245--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 245--253
-
- []
-
-
-Underfull \vbox (badness 2065) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1200,15 +1191,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-File: ./images//podologiaqrcode.png Graphic file (type bmp)
-<./images//podologiaqrcode.png>
+File: ./images//dentistaqrcode.png Graphic file (type bmp)
+<./images//dentistaqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--263
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--263
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
+
+ []
+
+File: ./images//podologiaqrcode.png Graphic file (type bmp)
+<./images//podologiaqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--264
 
  []
 
@@ -1224,26 +1227,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//csmqrcode.png Graphic file (type bmp)
 <./images//csmqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--270
+Underfull \hbox (badness 10000) in paragraph at lines 267--271
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--270
+Underfull \hbox (badness 10000) in paragraph at lines 267--271
 
  []
 
 File: ./images//sapqrcode.png Graphic file (type bmp)
 <./images//sapqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--278
+Underfull \hbox (badness 10000) in paragraph at lines 271--279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--278
+Underfull \hbox (badness 10000) in paragraph at lines 271--279
 
  []
+
+
+Underfull \vbox (badness 7030) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1568,10 +1575,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
  []
 
-
-Underfull \vbox (badness 2065) has occurred while \output is active []
-
- [39]
+[39]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1590,39 +1594,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 114--119
+Underfull \hbox (badness 10000) in paragraph at lines 115--120
 \TU/FandolKai(0)/m/n/12 主 要 品 牌：| \TU/lmr/m/n/12 Gucci, Prada, Ar-
  []
 
 
-Overfull \hbox (22.02002pt too wide) in paragraph at lines 121--125
-\TU/FandolKai(0)/m/n/12 网 址\TU/lmr/m/n/12 : www.mcarthurglen.com/barberino-
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+\TU/lmr/m/n/12 www.mcarthurglen.com/barberino-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+\TU/lmr/m/n/12 Dolce&Gabbana, BOSS, Cavalli,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
 |\TU/lmr/bx/n/12 SERRAVALLE DESIGNER
  []
 
 
-Overfull \hbox (1.664pt too wide) in paragraph at lines 127--131
+Overfull \hbox (1.664pt too wide) in paragraph at lines 129--133
 \TU/FandolKai(0)/m/n/12 网 址：| \TU/lmr/m/n/12 www.mcarthurglen.it/serravalle 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
 \TU/FandolKai(0)/m/n/12 主 要 品 牌：| \TU/lmr/m/n/12 PRADA\TU/FandolKai(0)/m/n/12 ，
 | \TU/lmr/m/n/12 VERSACE\TU/FandolKai(0)/m/n/12 ，|
  []
 
 
-Overfull \hbox (30.008pt too wide) in paragraph at lines 133--138
-\TU/FandolKai(0)/m/n/12 网 址：| \TU/lmr/m/n/12 www.mcarthurglen.it/noventadipiave
- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--138
+Underfull \hbox (badness 10000) in paragraph at lines 135--141
 \TU/FandolKai(0)/m/n/12 地 址：| \TU/lmr/m/n/12 Via Marco Polo1\TU/FandolKai(0)/m/
 n/12 ，| \TU/lmr/m/n/12 30020
  []
@@ -1680,22 +1683,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
@@ -1712,7 +1715,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]) (body/enrollment.tex
-Underfull \hbox (badness 10000) in paragraph at lines 73--1
+Underfull \hbox (badness 10000) in paragraph at lines 75--1
 
  []
 
@@ -1741,12 +1744,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//studentionlineqrcode.png Graphic file (type bmp)
 <./images//studentionlineqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
 
  []
 
@@ -1831,15 +1834,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-File: ./images//2022tasseqrcode.png Graphic file (type bmp)
-<./images//2022tasseqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
+File: ./images//2022tasseqrcode.png Graphic file (type bmp)
+<./images//2022tasseqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--113
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
 
  []
 
@@ -1852,6 +1854,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [57]
+File: ./images//isseintqrcord.png Graphic file (type bmp)
+<./images//isseintqrcord.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--141
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1861,6 +1894,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [58]
+Underfull \vbox (badness 6268) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1879,7 +1915,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
-Overfull \hbox (24.0pt too wide) in paragraph at lines 196--197
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+Overfull \hbox (24.0pt too wide) in paragraph at lines 223--224
 [][] 
  []
 
@@ -1895,30 +1940,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[61]
-Overfull \hbox (24.0pt too wide) in paragraph at lines 208--209
+[62]
+Overfull \hbox (24.0pt too wide) in paragraph at lines 235--236
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--234
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--234
+Overfull \hbox (24.0pt too wide) in paragraph at lines 250--251
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
 
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+ []
 
-[62]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1928,18 +1974,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
-File: ./images//almabikeqrcode.png Graphic file (type bmp)
-<./images//almabikeqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--273
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--273
-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1949,43 +1983,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
-File: ./images//tper99qrcode.png Graphic file (type bmp)
-<./images//tper99qrcode.png>
+File: ./images//almabikeqrcode.png Graphic file (type bmp)
+<./images//almabikeqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--281
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--281
+Underfull \hbox (badness 10000) in paragraph at lines 298--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--281
+Underfull \hbox (badness 10000) in paragraph at lines 298--302
 
  []
-
-File: ./images//corsiclaqrcode.png Graphic file (type bmp)
-<./images//corsiclaqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--289
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1996,43 +2004,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [65]
+File: ./images//tper99qrcode.png Graphic file (type bmp)
+<./images//tper99qrcode.png>
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[66]
-File: ./images//almawifiqrcode.png Graphic file (type bmp)
-<./images//almawifiqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--307
-
- []
-
-File: ./images//eduroamqrcode.png Graphic file (type bmp)
-<./images//eduroamqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--320
+Underfull \hbox (badness 10000) in paragraph at lines 304--310
 
  []
 
 
-Underfull \vbox (badness 1365) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 304--310
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 304--310
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+File: ./images//corsiclaqrcode.png Graphic file (type bmp)
+<./images//corsiclaqrcode.png>
 
-[67]
-Underfull \hbox (badness 10000) in paragraph at lines 330--332
+Underfull \hbox (badness 10000) in paragraph at lines 312--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--319
 
  []
 
@@ -2048,8 +2050,57 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[66]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+File: ./images//almawifiqrcode.png Graphic file (type bmp)
+<./images//almawifiqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--337
+
+ []
+
+File: ./images//eduroamqrcode.png Graphic file (type bmp)
+<./images//eduroamqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--350
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [68]
-Overfull \hbox (4.408pt too wide) in paragraph at lines 348--351
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69]
+Overfull \hbox (4.408pt too wide) in paragraph at lines 378--381
 \TU/FandolKai(0)/m/n/12 对 于 博 洛 尼 亚 大 学 的 学 生，|  通 过 机 构 电 子 邮 件 \TU/lmr/m/n/12
  name.surname@studio.unibo.it
  []
@@ -2066,8 +2117,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[69]
-Overfull \hbox (32.784pt too wide) in paragraph at lines 353--359
+[70]
+Overfull \hbox (32.784pt too wide) in paragraph at lines 383--389
 \TU/FandolKai(0)/m/n/12 注 册 网 址：| \TU/lmr/m/n/12 https://it.mathworks.com/acade
 mia/tah-portal/alma-mater-studiorum-
  []
@@ -2080,14 +2131,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[70]
-Overfull \hbox (1.62271pt too wide) in paragraph at lines 361--366
+[71]
+Overfull \hbox (1.62271pt too wide) in paragraph at lines 391--396
 []\TU/FandolKai(0)/m/n/12 根 据 与 微 软 的 协 议，|  博 洛 尼 亚 大 学 的 所 有 学 生 都 可 以 免 费 使 
 用 \TU/lmr/m/n/12 Office365
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--388
+Underfull \hbox (badness 10000) in paragraph at lines 409--418
 
  []
 
@@ -2099,7 +2150,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71]) (body/ababo.tex
+[72]) (body/ababo.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2108,11 +2159,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]
-第\CJKnumber {8}章 8.
-[73
+[73]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74
 
 ]
+第\CJKnumber {8}章 8.
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
@@ -2148,76 +2208,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
-
-Overfull \hbox (2.388pt too wide) in paragraph at lines 79--88
-\TU/lmr/m/n/12 https://www.servizi2.isidata.net/SSdidatticheac/MainGenerale.asp
-x?lng=it-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--88
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
 
  []
 
@@ -2230,7 +2237,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+Missing character: There is no   in font [lmroman12-regular]:mapping=tex-text;!
+
+Overfull \hbox (2.388pt too wide) in paragraph at lines 80--89
+\TU/lmr/m/n/12 https://www.servizi2.isidata.net/SSdidatticheac/MainGenerale.asp
+x?lng=it-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--89
 
  []
 
@@ -2243,6 +2272,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [78]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2252,7 +2290,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [79]
-Overfull \hbox (19.236pt too wide) in paragraph at lines 137--140
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
+Overfull \hbox (19.236pt too wide) in paragraph at lines 138--141
 \TU/FandolKai(0)/m/n/12 教 程 地 址：| \TU/lmr/m/n/12 http://www.ababo.it/ABA/wpcont
 ent/uploads/2011/07/ESEMPIO-
  []
@@ -2269,20 +2329,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[80]
-Overfull \hbox (22.692pt too wide) in paragraph at lines 148--149
+[82]
+Overfull \hbox (22.692pt too wide) in paragraph at lines 149--150
 \TU/FandolKai(0)/m/n/12 字 并 投 至 系 办 公 室 门 口 信 箱，|  申 请 表 下 载 地 址：| \TU/lmr/m/n/
 12 http://www.ababo.it/ABA/tesi/\TU/FandolKai(0)/m/n/12 ，|
  []
 
 
-Overfull \hbox (28.55049pt too wide) in paragraph at lines 160--161
+Overfull \hbox (28.55049pt too wide) in paragraph at lines 161--162
 []\TU/FandolKai(0)/m/n/12 毕 业 论 文 电 子 版 \TU/lmr/m/n/12 CD(\TU/FandolKai(0)/m/n/
 12 封 面 需 按 照 要 求 打 印 并 有 论 文 指 导 教 授 签 字\TU/lmr/m/n/12 )(Allegato
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
@@ -2294,8 +2354,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[81]
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
@@ -2308,12 +2368,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[82]
+[84]
 第\CJKnumber {9}章 9.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83
+ [85
 
 ]
 
@@ -2324,27 +2384,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[84]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[85]) (body/faq.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [86]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]) (body/faq.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88]
 第\CJKnumber {10}章 10.
-[87
+[89
 
 ]) (body/Appendix.tex
 
@@ -2355,7 +2415,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[88]
+[90]
 第\CJKnumber {11}章 11.
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf>
@@ -2365,7 +2425,7 @@ File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
-[89
+[91
 
 ]
 File: figures/cf.pdf Graphic file (type pdf)
@@ -2374,52 +2434,52 @@ File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
 File: figures/cf.pdf Graphic file (type pdf)
 <use figures/cf.pdf, page 1>
- [90]
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf, page 1>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf, page 1>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf, page 1>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf, page 1>
-File: figures/jl1.pdf Graphic file (type pdf)
-<use figures/jl1.pdf, page 1>
- [91]
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf, page 1>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf, page 1>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf, page 1>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf, page 1>
-File: figures/jl2.pdf Graphic file (type pdf)
-<use figures/jl2.pdf, page 1>
  [92]
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf, page 1>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf, page 1>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf, page 1>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf, page 1>
-File: figures/jl3.pdf Graphic file (type pdf)
-<use figures/jl3.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
+File: figures/jl1.pdf Graphic file (type pdf)
+<use figures/jl1.pdf, page 1>
  [93]
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+File: figures/jl2.pdf Graphic file (type pdf)
+<use figures/jl2.pdf, page 1>
+ [94]
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+File: figures/jl3.pdf Graphic file (type pdf)
+<use figures/jl3.pdf, page 1>
+ [95]
 File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf>
 File: figures/jl4.pdf Graphic file (type pdf)
@@ -2434,7 +2494,7 @@ File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf, page 1>
 File: figures/jl4.pdf Graphic file (type pdf)
 <use figures/jl4.pdf, page 1>
- [94]) (body/biblio.tex
+ [96]) (body/biblio.tex
 Overfull \hbox (31.552pt too wide) in paragraph at lines 8--9
 []\TU/FandolKai(0)/m/n/12 意 大 利 身 份 证 \TU/lmr/m/n/12 http://www.comune.bologna.
 it/cittadino/servizi/9:2931/7422/ 
@@ -2464,9 +2524,9 @@ Overfull \hbox (24.80798pt too wide) in paragraph at lines 15--16
 gov.it/mit2/public/scioperi/ricerca 
  []
 
-) (body/remarks.tex [95
+) (body/remarks.tex [97
 
-] [96
+] [98
 
 
 ]
@@ -2488,7 +2548,7 @@ File: flyers/a1.pdf Graphic file (type pdf)
 <use flyers/a1.pdf, page 1>
 File: flyers/a1.pdf Graphic file (type pdf)
 <use flyers/a1.pdf, page 1>
- [97
+ [99
 
 ]
 File: flyers/a1.pdf Graphic file (type pdf)
@@ -2497,201 +2557,201 @@ File: flyers/a1.pdf Graphic file (type pdf)
 <use flyers/a1.pdf, page 1>
 File: flyers/a1.pdf Graphic file (type pdf)
 <use flyers/a1.pdf, page 1>
- [98]
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf, page 1>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf, page 1>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf, page 1>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf, page 1>
-File: flyers/a2.pdf Graphic file (type pdf)
-<use flyers/a2.pdf, page 1>
- [99]
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf, page 1>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf, page 1>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf, page 1>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf, page 1>
-File: flyers/b1.pdf Graphic file (type pdf)
-<use flyers/b1.pdf, page 1>
  [100]
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf, page 1>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf, page 1>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf, page 1>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf, page 1>
-File: flyers/b2.pdf Graphic file (type pdf)
-<use flyers/b2.pdf, page 1>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf, page 1>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf, page 1>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf, page 1>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf, page 1>
+File: flyers/a2.pdf Graphic file (type pdf)
+<use flyers/a2.pdf, page 1>
  [101]
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf, page 1>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf, page 1>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf, page 1>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf, page 1>
-File: flyers/c1.pdf Graphic file (type pdf)
-<use flyers/c1.pdf, page 1>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf, page 1>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf, page 1>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf, page 1>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf, page 1>
+File: flyers/b1.pdf Graphic file (type pdf)
+<use flyers/b1.pdf, page 1>
  [102]
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf, page 1>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf, page 1>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf, page 1>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf, page 1>
-File: flyers/c2.pdf Graphic file (type pdf)
-<use flyers/c2.pdf, page 1>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf, page 1>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf, page 1>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf, page 1>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf, page 1>
+File: flyers/b2.pdf Graphic file (type pdf)
+<use flyers/b2.pdf, page 1>
  [103]
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf, page 1>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf, page 1>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf, page 1>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf, page 1>
-File: flyers/d1.pdf Graphic file (type pdf)
-<use flyers/d1.pdf, page 1>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf, page 1>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf, page 1>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf, page 1>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf, page 1>
+File: flyers/c1.pdf Graphic file (type pdf)
+<use flyers/c1.pdf, page 1>
  [104]
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf, page 1>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf, page 1>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf, page 1>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf, page 1>
-File: flyers/d2.pdf Graphic file (type pdf)
-<use flyers/d2.pdf, page 1>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf, page 1>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf, page 1>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf, page 1>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf, page 1>
+File: flyers/c2.pdf Graphic file (type pdf)
+<use flyers/c2.pdf, page 1>
  [105]
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf, page 1>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf, page 1>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf, page 1>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf, page 1>
-File: flyers/e1.pdf Graphic file (type pdf)
-<use flyers/e1.pdf, page 1>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf, page 1>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf, page 1>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf, page 1>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf, page 1>
+File: flyers/d1.pdf Graphic file (type pdf)
+<use flyers/d1.pdf, page 1>
  [106]
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf, page 1>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf, page 1>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf, page 1>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf, page 1>
-File: flyers/e2.pdf Graphic file (type pdf)
-<use flyers/e2.pdf, page 1>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf, page 1>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf, page 1>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf, page 1>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf, page 1>
+File: flyers/d2.pdf Graphic file (type pdf)
+<use flyers/d2.pdf, page 1>
  [107]
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf, page 1>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf, page 1>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf, page 1>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf, page 1>
-File: flyers/f1.pdf Graphic file (type pdf)
-<use flyers/f1.pdf, page 1>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf, page 1>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf, page 1>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf, page 1>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf, page 1>
+File: flyers/e1.pdf Graphic file (type pdf)
+<use flyers/e1.pdf, page 1>
  [108]
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf, page 1>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf, page 1>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf, page 1>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf, page 1>
-File: flyers/f2.pdf Graphic file (type pdf)
-<use flyers/f2.pdf, page 1>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf, page 1>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf, page 1>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf, page 1>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf, page 1>
+File: flyers/e2.pdf Graphic file (type pdf)
+<use flyers/e2.pdf, page 1>
  [109]
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf, page 1>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf, page 1>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf, page 1>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf, page 1>
-File: figures/c2.pdf Graphic file (type pdf)
-<use figures/c2.pdf, page 1>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf, page 1>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf, page 1>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf, page 1>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf, page 1>
+File: flyers/f1.pdf Graphic file (type pdf)
+<use flyers/f1.pdf, page 1>
+ [110]
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf, page 1>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf, page 1>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf, page 1>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf, page 1>
+File: flyers/f2.pdf Graphic file (type pdf)
+<use flyers/f2.pdf, page 1>
 
-[110] (main.aux)
+[111]
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+File: figures/c2.pdf Graphic file (type pdf)
+<use figures/c2.pdf, page 1>
+ [112] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D5C6554EFD5E657CBCFA93D4929CFF8A;13279.
+(rerunfilecheck)             Checksum: 2082ED34837D009A1AF52DE52F3E95A7;13183.
  ) 
 Here is how much of TeX's memory you used:
  20394 strings out of 410939
- 432951 string characters out of 2830431
- 753518 words of memory out of 3000000
+ 432246 string characters out of 2830431
+ 753412 words of memory out of 3000000
  40779 multiletter control sequences out of 15000+600000
  476488 words of font info for 85 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 94i,17n,100p,984b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 94i,17n,100p,988b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.pdf (122 pages).
+Output written on main.pdf (124 pages).
