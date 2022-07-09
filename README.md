@@ -5,12 +5,14 @@
 ——————————ASSCUBO——————————  
 
 ## Prerequisite:
+
 - Install fonts: ```fandol```
 - Install Latex: https://www.latex-project.org
 
 ## Compile with:
 
-xelatex main.tex
+Latex xelatex
+main.tex
 
 If Chinese characters are not displayed in the preview area when editing,  please get Texworks 0.6.7 from https://github.com/TeXworks/texworks   
   
