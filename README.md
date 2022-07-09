@@ -20,7 +20,7 @@ The short.tex version has been customized(shortened)for budget scope in Printing
 开始收集文档  
 
 2022/04/24  
-1,4,8章排版结束  
+一、四、八章排版结束  
 
 2022/04/25  
 已上传所有文档的第二版  
