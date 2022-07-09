@@ -33,7 +33,7 @@ The short.tex version has been customized(shortened)for budget scope in Printing
 第二章排版结束  
 
 2022/04/27  
-开始按body分工,Appendix.tex往下和welcome往上  
+开始按body分工，Appendix.tex往下和welcome往上  
 之后审核更新完的上传到body并在此备注  
 
 2022/04/28  
