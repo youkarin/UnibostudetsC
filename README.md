@@ -11,7 +11,7 @@
 
 ## Compile with:
 
-Latex xelatex
+Latex xelatex  
 main.tex
 
 If Chinese characters are not displayed in the preview area when editing,  please get Texworks 0.6.7 from https://github.com/TeXworks/texworks   
