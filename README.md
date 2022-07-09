@@ -1,4 +1,4 @@
-#博洛尼亚 新生手册
+## 博洛尼亚 新生手册
 
 博洛尼亚大学中国学联新生手册，借鉴前辈们多年的经验，让你在意大利博洛尼亚市生活得更舒适，更开心。
 
@@ -14,7 +14,7 @@ If Chinese characters are not displayed in the preview area when editing,  pleas
   
 The short.tex version has been customized(shortened)for budget scope in Printing Service shop.
 
-## LOG:
+## Log:
 
 2022/04/23  
 开始收集文档  
