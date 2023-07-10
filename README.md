@@ -14,7 +14,7 @@
 Latex xelatex  
 main.tex
 
-If Chinese characters are not displayed in the preview area when editing,  please get Texworks 0.6.7 from https://github.com/TeXworks/texworks   
+If Chinese characters are not displayed in the preview area when editing,  please get the latest version Texworks from https://github.com/TeXworks/texworks   
   
 The short.tex version has been customized(shortened)for budget scope in Printing Service shop.
 
