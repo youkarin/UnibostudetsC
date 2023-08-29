@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  6 JUL 2022 11:24
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.27)  5 AUG 2023 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1775,22 +1775,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 48--56
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
 
  []
 
@@ -1803,18 +1793,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
-Underfull \hbox (badness 10000) in paragraph at lines 69--75
+Underfull \hbox (badness 10000) in paragraph at lines 61--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
+Underfull \hbox (badness 10000) in paragraph at lines 61--68
 
  []
 
 
-Underfull \vbox (badness 4316) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1825,6 +1816,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55]
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1834,16 +1829,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-File: ./images//2022tasseqrcode.png Graphic file (type bmp)
-<./images//2022tasseqrcode.png>
+File: ./images//2023tasseqrcode.png Graphic file (type bmp)
+<./images//2023tasseqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1894,9 +1893,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [58]
-Underfull \vbox (badness 6268) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1906,6 +1902,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1924,14 +1923,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [61]
-Overfull \hbox (24.0pt too wide) in paragraph at lines 223--224
-[][] 
- []
-
-
-Underfull \vbox (badness 1997) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1941,6 +1932,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [62]
+Overfull \hbox (24.0pt too wide) in paragraph at lines 223--224
+[][] 
+ []
+
+
 Overfull \hbox (24.0pt too wide) in paragraph at lines 235--236
 [][] 
  []
@@ -1956,16 +1952,6 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 250--251
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--263
-
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1974,6 +1960,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [63]
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
+
+ []
+
+File: ./images//calcioqrcord.png Graphic file (type bmp)
+<./images//calcioqrcord.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1983,6 +1985,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [64]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65]
 File: ./images//almabikeqrcode.png Graphic file (type bmp)
 <./images//almabikeqrcode.png>
 
@@ -1996,51 +2007,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--302
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[65]
-File: ./images//tper99qrcode.png Graphic file (type bmp)
-<./images//tper99qrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--310
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--310
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--310
-
- []
-
-File: ./images//corsiclaqrcode.png Graphic file (type bmp)
-<./images//corsiclaqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--319
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2051,6 +2025,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [66]
+Underfull \hbox (badness 10000) in paragraph at lines 312--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2063,14 +2051,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//almawifiqrcode.png Graphic file (type bmp)
 <./images//almawifiqrcode.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--337
-
- []
-
-File: ./images//eduroamqrcode.png Graphic file (type bmp)
-<./images//eduroamqrcode.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--350
+Underfull \hbox (badness 10000) in paragraph at lines 337--343
 
  []
 
@@ -2083,13 +2064,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 360--362
+File: ./images//eduroamqrcode.png Graphic file (type bmp)
+<./images//eduroamqrcode.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--356
 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2100,14 +2080,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [69]
-Overfull \hbox (4.408pt too wide) in paragraph at lines 378--381
-\TU/FandolKai(0)/m/n/12 对 于 博 洛 尼 亚 大 学 的 学 生，|  通 过 机 构 电 子 邮 件 \TU/lmr/m/n/12
- name.surname@studio.unibo.it
+Underfull \hbox (badness 10000) in paragraph at lines 366--368
+
  []
 
 
-Underfull \vbox (badness 2065) has occurred while \output is active []
-
+Overfull \hbox (4.408pt too wide) in paragraph at lines 384--387
+\TU/FandolKai(0)/m/n/12 对 于 博 洛 尼 亚 大 学 的 学 生，|  通 过 机 构 电 子 邮 件 \TU/lmr/m/n/12
+ name.surname@studio.unibo.it
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2118,7 +2099,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [70]
-Overfull \hbox (32.784pt too wide) in paragraph at lines 383--389
+Overfull \hbox (32.784pt too wide) in paragraph at lines 389--395
 \TU/FandolKai(0)/m/n/12 注 册 网 址：| \TU/lmr/m/n/12 https://it.mathworks.com/acade
 mia/tah-portal/alma-mater-studiorum-
  []
@@ -2132,13 +2113,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [71]
-Overfull \hbox (1.62271pt too wide) in paragraph at lines 391--396
+Overfull \hbox (1.62271pt too wide) in paragraph at lines 397--402
 []\TU/FandolKai(0)/m/n/12 根 据 与 微 软 的 协 议，|  博 洛 尼 亚 大 学 的 所 有 学 生 都 可 以 免 费 使 
 用 \TU/lmr/m/n/12 Office365
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--418
+Underfull \hbox (badness 10000) in paragraph at lines 412--415
 
  []
 
@@ -2150,7 +2131,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72]) (body/ababo.tex
+[72]
+Overfull \hbox (34.252pt too wide) in paragraph at lines 416--417
+[]\TU/FandolKai(0)/m/n/12 要 在 您 的 计 算 机 上 安 装 该 软 件，|  请 参 阅 \TU/lmr/m/n/12 htt
+ps://www.unibo.it/secure/software-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
+
+ []
+
+
+Underfull \vbox (badness 1158) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2159,7 +2169,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[73]
+[73]) (body/ababo.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2168,11 +2178,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[74
+[74]
+第\CJKnumber {8}章 8.
+[75
 
 ]
-第\CJKnumber {8}章 8.
-[75]
 Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
@@ -2743,13 +2753,13 @@ File: figures/c2.pdf Graphic file (type pdf)
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2082ED34837D009A1AF52DE52F3E95A7;13183.
+(rerunfilecheck)             Checksum: 5402FAB0DDD2C6EAB7CC94BA8B428485;13255.
  ) 
 Here is how much of TeX's memory you used:
- 20394 strings out of 410939
- 432246 string characters out of 2830431
- 753412 words of memory out of 3000000
- 40779 multiletter control sequences out of 15000+600000
+ 20376 strings out of 410939
+ 431753 string characters out of 2830431
+ 753492 words of memory out of 3000000
+ 40761 multiletter control sequences out of 15000+600000
  476488 words of font info for 85 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  94i,17n,100p,988b,505s stack positions out of 10000i,1000n,20000p,200000b,80000s
